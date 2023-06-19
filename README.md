@@ -1,6 +1,6 @@
 ###### Artigo
 __Por FabasaPro Designer__<br />
-<sup>Publicado em 19 de jun de 2023 às 8h49 &vellip; Atualizado em 19 de jun de 2023 às 8h49</sup>
+<sup>Publicado em 19 jun 2023 às 8h49 &vellip; Atualizado em 19 jun 2023 às 8h49</sup>
 
 # Wiki
 
