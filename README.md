@@ -35,8 +35,8 @@ __Coletividade__
 > o conteúdo do artigo. Porém, o intuito é, justamente, que a página acabe
 > por ser editada por alguém com mais conhecimentos. Está fortemente
 > relacionado com o conceito de crowdsourcing.<sup>1</sup>
-> Alternativamente existem alguns wikis utilizadas como wikis pessoais.<br />
-> &#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015;&#x2015; <br />
+> Alternativamente existem alguns wikis utilizadas como wikis pessoais.
+> 
 > <sup>1. SCHENK, Eric; Guittard, Claude (2009). [«Crowdsourcing: What can be
 > Outsourced to the Crowd, and Why ?»](https://hal.archives-ouvertes.fr/file/index/docid/439256/filename/Crowdsourcing_eng.pdf) (PDF). hal.archives-ouvertes.fr[ligação
 > inativa]</sup>
@@ -107,12 +107,11 @@ FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
 > não as dimensões da empresa industrial, mas o controle do capital social por
 > detrás." (THOMPSON, 1998, p. 408 apud SINGER, 2011, p. 70).
 > 
-> <hr /> <br />
 > <sup>1 THOMPSON, Edward P. **The making of the English working class.**
 > Harmondsworth: Penquin, 1998.</sup>
 
 
-<p data-sourcepos="47:7-47:295" dir="auto"><a href="https://github.com/poitanotalk/resources/tree/main#wiki">↑</a> A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti']. <a href="#user-content-fnref-1-a11122b56e34e00f949ff6d20923c653" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref"><g-emoji class="g-emoji" alias="leftwards_arrow_with_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png">↩</g-emoji></a> <a href="#user-content-fnref-1-2-a11122b56e34e00f949ff6d20923c653" data-footnote-backref="" aria-label="Back to reference 1-2" class="data-footnote-backref"><g-emoji class="g-emoji" alias="leftwards_arrow_with_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png">↩</g-emoji><sup>2</sup></a></p>
+
 
 
 
