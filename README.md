@@ -47,15 +47,17 @@ __Coletividade__
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
 
-Name                          | `C` `Java` | `CSS`   | `HTML Dec` | `HTML Hex` | `Perl`   | `Python` | `Ruby`   | `URL`     | `Flag`
-------------------------------|------------|---------|------------|------------|----------|----------|----------|-----------|--------
- North West Arrow to Corner   | \u21F1     | \0021F1 | &#8689;    | &#x21F1;   | \x{21F1} | \u21F1   | \u{21F1} | %E2%87%B1 | ⇱
- South East Arrow to Corner   | \u21F2     | \0021F2 | &#8690;    | &#x21F2;   | \x{21F2} | \u21F2   | \u{21F2} | %E2%87%B2 | ⇲
- Vertical Ellipsis            | \u22EE     | \0022EE | &#8942;    | &#x22EE;   | \x{22EE} | \u22EE   | \u{22EE} | %E2%8B%AE | ⋮
- Midline Horizontal Ellipsis  | \u22EF     | \0022EF | &#8943;    | &#x22EF;   | \x{22EF} | \u22EF   | \u{22EF} | %E2%8B%AF | ⋯
- Up Right Diagonal Ellipsis   | \u22F0     | \0022F0 | &#8944;    | &#x22F0;   | \x{22F0} | \u22F0   | \u{22F0} | %E2%8B%B0 | ⋰
- Down Right Diagonal Ellipsis | \u22F1     | \0022F1 | &#8945;    | &#x22F1;   | \x{22F1} | \u22F1   | \u{22F1} | %E2%8B%B1 | ⋱
-
+Name                                              | `Java` | `CSS`   | `HTML`   | `Perl`   | `Python` | `Ruby`   | `URL`     | `Flag`
+--------------------------------------------------|--------|---------|----------|----------|----------|----------|-----------|--------
+ North West Arrow to Corner                       | \u21F1 | \0021F1 | &#x21F1; | \x{21F1} | \u21F1   | \u{21F1} | %E2%87%B1 | ⇱
+ South East Arrow to Corner                       | \u21F2 | \0021F2 | &#x21F2; | \x{21F2} | \u21F2   | \u{21F2} | %E2%87%B2 | ⇲
+ Vertical Ellipsis                                | \u22EE | \0022EE | &#x22EE; | \x{22EE} | \u22EE   | \u{22EE} | %E2%8B%AE | ⋮
+ Midline Horizontal Ellipsis                      | \u22EF | \0022EF | &#x22EF; | \x{22EF} | \u22EF   | \u{22EF} | %E2%8B%AF | ⋯
+ Up Right Diagonal Ellipsis                       | \u22F0 | \0022F0 | &#x22F0; | \x{22F0} | \u22F0   | \u{22F0} | %E2%8B%B0 | ⋰
+ Down Right Diagonal Ellipsis                     | \u22F1 | \0022F1 | &#x22F1; | \x{22F1} | \u22F1   | \u{22F1} | %E2%8B%B1 | ⋱
+ Arrow Pointing Rightwards then Curving Upwards   | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤴
+ Arrow Pointing Rightwards then Curving Downwards | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤵
+ 
 
 FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
 :----:|:-----------|:----------|:------------|:-----------------|
