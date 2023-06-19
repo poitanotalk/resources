@@ -18,9 +18,28 @@ O termo "wiki" na língua havaiana significa "super veloz", devido a velocidade 
 
 ## Principais características
 
-Um Web Wiki permite que os documentos sejam editados colectivamente com uma linguagem de marcação muito simples e eficaz, por meio da utilização de um navegador web.[9] Dado que a grande maioria dos wikis é baseada na web, o termo wiki é normalmente suficiente. Uma única página em um wiki é referida como uma "única página", enquanto o conjunto total de páginas, que estão altamente interligadas, chama-se 'o wiki'.
+Um __Web Wiki__ permite que os documentos sejam editados colectivamente com uma linguagem de marcação muito simples e eficaz, por meio da utilização de um [navegador web]().[<sup>[9]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia) Dado que a grande maioria dos wikis é baseada na web, o termo wiki é normalmente suficiente. Uma única página em um wiki é referida como uma "única página", enquanto o conjunto total de páginas, que estão altamente interligadas, chama-se 'o wiki'.
 
 Uma das características definitivas da tecnologia wiki é a facilidade com que as páginas são criadas e alteradas – geralmente não existe qualquer revisão antes de as modificações serem aceitas, e a maioria dos wikis são abertos a todo o público ou pelo menos a todas as pessoas que têm acesso ao servidor wiki. Nem o registro de usuários é obrigatório em todos os wikis.[carece de fontes]
+
+__Coletividade__
+> O que faz o "wiki" tão diferente dos outros sítios da Internet é
+> certamente o fato de poder ser editado pelos usuários que por ele navegam.
+> Por exemplo, esta parte do artigo foi adicionada anos após a criação do
+> próprio, e, com certeza, não será a última edição; ela será modificada por
+> usuários e visitantes ao longo do tempo. É possível corrigir erros,
+> complementar ideias e inserir novas informações. Assim, o conteúdo de um
+> artigo atualiza-se graças à coletividade. Os problemas que se podem
+> encontrar em wikis são artigos feitos por pessoas que nem sempre são
+> especialistas no assunto, ou até alguns atos de vandalismo, substituindo
+> o conteúdo do artigo. Porém, o intuito é, justamente, que a página acabe
+> por ser editada por alguém com mais conhecimentos. Está fortemente
+> relacionado com o conceito de crowdsourcing.<sup>1</sup>
+> Alternativamente existem alguns wikis utilizadas como wikis pessoais.<br />
+> `___________________________________` <br />
+> <sup>1. SCHENK, Eric; Guittard, Claude (2009). «Crowdsourcing: What can be
+> Outsourced to the Crowd, and Why ?» (PDF). hal.archives-ouvertes.fr[ligação
+> inativa]</sup>
 
 ## Bibliografia
 
@@ -28,8 +47,16 @@ Uma das características definitivas da tecnologia wiki é a facilidade com que 
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
 
- 
- FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
+
+Name                         | `C` `Java` | `CSS`   | `HTML Dec` | `HTML Hex` | `Perl`   | `Python` | `Ruby`   | `URL`     | `Flag`
+-----------------------------|------------|---------|------------|------------|----------|----------|----------|-----------|--------
+ North West Arrow to Corner  | \u21F1     | \0021F1 | &#8689;    | &#x21F1;   | \x{21F1} | \u21F1   | \u{21F1} | %E2%87%B1 | ⇱
+ South East Arrow to Corner  | \u21F2     | \0021F2 | &#8690;    | &#x21F2;   | \x{21F2} | \u21F2   | \u{21F2} | %E2%87%B2 | ⇲
+ Vertical Ellipsis           | \u22EE     | \0022EE | &#8942;    | &#x22EE;   | \x{22EE} | \u22EE   | \u{22EE} | %E2%8B%AE | ⋮
+ Midline Horizontal Ellipsis | \u22EF     | \0022EF | &#8942;    | &#x22EE;   | \x{22EF} | \u22EF   | \u{22EF} | %E2%8B%AF | ⋯
+
+
+FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
 :----:|:-----------|:----------|:------------|:-----------------|
  ←    | `&#x2190;` | `&#8592;` | `&larr;`    | Left Arrow       |
  ↑    | `&#x2191;` | `&#8593;` | `&uarr;`    | Up Arrow         |
@@ -42,6 +69,7 @@ Uma das características definitivas da tecnologia wiki é a facilidade com que 
  ↘    | `&#x2198;` | `&#8600;` | `&searr;`   | South East Arrow |
  ↙    | `&#x2199;` | `&#8601;` | `&swarr;`   | South West Arrow |
   ⋮    | &#x22EE; | &#8942; | &vellip;   | Vertical Ellipsis |
+  ⇱     | &#x21F1;   |&#8689;    |  &zyyy;      | North West Arrow to Corner
 
 
 > Para enfatizar sua empatia por Owen e a visão apropriacionista das forças produtivas,
