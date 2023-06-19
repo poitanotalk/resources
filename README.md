@@ -60,7 +60,25 @@ As instruções de formatação permitidas por um wiki variam consideravelmente,
 
 Wikis simples permitem apenas a formatação básica, enquanto os mais complexos suportam tabelas, imagens, fórmulas, ou até elementos interativos, como votações e jogos. Por esse motivo, atualmente existe um esforço conjunto para definir um Wiki Markup Standard.[<sup>[10]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)
 
+## Ligando e criando páginas
 
+Wikis são verdadeiras mídias hipertextuais, com estrutura de navegação não linear. Cada página geralmente contém um grande número de ligações para outras páginas. Páginas com navegação hierárquica são frequentemente usadas em grandes wikis, mas não devem ser usadas. As ligações são criadas usando-se uma sintaxe específica, o chamado "padrão link".
+
+Originalmente, a maioria dos wikis usava [CamelCase]() como padrão link, produzido por palavras que começam com letras maiúsculas, sem espaço entre elas (a palavra "CamelCase" é em si um exemplo de CamelCase). Embora o CamelCase faça ligações muito facilmente, também cria ligações que são escritas de uma forma que se desvia da escrita padrão. Wikis baseados em CamelCase são instantaneamente reconhecíveis em um grande número de ligações com nomes como "TableOfContents" e "BeginnerQuestions".
+
+Vale lembrar que, dentro de um universo wiki, não existem dois artigos com 'títulos' repetidos, pois faz parte da filosofia wiki utilizar-se da tecnologia de armazenamento para ajudar a eliminar ambiguidades. Ao mesmo tempo, é bom perceber que o wiki tem a sensibilidade de distinguir letras maiúsculas de minúsculas como distintas para o armazenamento. Além disso, a própria [ambiguidade]() do idioma utilizado pode, facilmente, gerar artigos repetidos, até mesmo com títulos extremamente parecidos, diferenciados apenas pelo [caps]() (inglês para "maiúsculas e minúsculas", observado na maioria dos teclados ocidentais).
+
+## Controle de usuários
+
+A ideia por trás de controlar usuários é diretamente relacionada ao tamanho do [universo]() gerado pelo wiki. Quanto mais pessoas estiverem usando o wiki, menor deveria ser a necessidade de [níveis]() de controle, pois o controle é fornecido pela própria [sociedade](). Mas o controle sempre se faz necessário, em pelo menos dois níveis: gerenciamento e utilização.
+
+Dessa forma, um wiki muito pequeno costuma ter a necessidade de adicionar um controle que impede autores anônimos para evitar [vandalismo](). Por outro lado, a maioria dos wikis públicos, que costumam ser grandes, dispensa qualquer tipo de registro.
+
+De todo modo, muitos dos principais mecanismos wiki (incluindo [MediaWiki](), [MoinMoin](), [UseModWiki]() e [TWiki]()) têm como limitar o acesso à publicação. Alguns mecanismos wiki permitem que usuários sejam banidos do processo de edição pelo bloqueio do seu endereço particular na Internet, o endereço IP, ou, quando disponível, o seu nome de usuário. Ainda assim, muitos provedores de acesso à Internet atribuem endereços IP diferentes para cada usuário registrado, então o banimento de IP pode ser superado facilmente. Para lidar com esse problema, embargos temporários de IP são utilizados ocasionalmente e estendidos a todos os endereços IP dentro de um determinado âmbito, assegurando, deste modo, que um vândalo não consiga editar páginas durante um certo tempo; entende-se que isso seja uma barreira suficiente. Pode, contudo, impedir alguns usuários não problemáticos — que venham do mesmo servidor de acesso à Internet — de utilizar o serviço durante o período de embargo.
+
+Uma defesa comum contra vândalos persistentes é deixá-los desfigurar tantas páginas quanto desejarem, sabendo que podem ser facilmente rastreadas e revertidas depois que o vândalo saia. Essa política pode revelar-se pouco prática, no entanto, face a sistemáticas fraudes resultantes de raiva ou frustração.
+
+Como uma medida de emergência, alguns wikis permitem que o banco de dados seja alterado para o modo apenas-leitura, enquanto outros adotam uma política em que apenas usuários que tenham sido registrados antes de algum corte arbitrário possam editar. Em geral, qualquer prejuízo infligido por um "vândalo" pode ser revertido rápida e facilmente. Mais problemáticos são os erros sutis que passam despercebidos, como a alteração de datas de lançamento de álbuns e discografias na Wikipedia.
 
 ## Bibliografia
 
