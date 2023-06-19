@@ -111,19 +111,19 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 <sup>`10.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «Meatball Wiki: WikiMarkupStandard». meatballwiki.org. Consultado em 29 de maio de 2022</sup><br />
 
 ## Bibliografia
-<sup>`•` Aigrain, Philippe (2000). The Individual and the Collective in Open Information Communities. Invited talk at the 16th Bled Electronic Commerce Conference, Bled, Slovenija, 11 de Junho de 2003. Disponível em: http://www.ufrgs.br/limc/escritacoletiva/pdf/indiv_and_collective.pdf</sup><br />
-<sup>`•` Aronsson, Lars (2002). Operation of a Large Scale, General Purpose Wiki Website: Experience from susning.nu's first nine months in service. Paper presented at the 6th International ICCC/IFIP Conference on Electronic Publishing, 6 - 8 de Novembro, 2002, Karlovy Vary, Czech Republic. Disponível em: https://web.archive.org/web/20130724101737/http://aronsson.se/wikipaper.html</sup><br />
-<sup>`•` Benkler, Yochai (2002). Coase's penguin, or, Linux and The Nature of the Firm. The Yale Law Jounal. v.112, n.3, pp.369-446.</sup><br />
-<sup>`•` Cunningham, Ward and Leuf, Bo (2001): The Wiki Way. Quick Collaboration on the Web. Addison-Wesley, ISBN 0-201-71499-X.</sup><br />
-<sup>`•` Delacroix, Jérôme (2005): Les wikis, espaces de l'intelligence collective M2 Editions, Paris, ISBN 2-9520514-4-5. Website: http://www.leswikis.com</sup><br />
-<sup>`•` Jansson, Kurt (2002): "Wikipedia. Die Freie Enzyklopädie." Lecture at the 19th Chaos Communications Congress (19C3), 27 de Dezembro, Berlim. Descrição online: http://de.wikipedia.org/wiki/Benutzer:Kurt_Jansson/Vortrag_auf_dem_19C3</sup><br />
-<sup>`•` Möller, Erik (2003). Loud and clear: How Internet media can work. Presentation at Open Cultures conference, June 5 - 6, Vienna. Disponível em: https://web.archive.org/web/20031012082345/http://opencultures.t0.or.at/oc/participants/moeller</sup><br />
-<sup>`•` Möller, Erik (2003). Tanz der Gehirne. Telepolis, May 9-30. Quatro partes: "Das Wiki-Prinzip", "Alle gegen Brockhaus", "Diderots Traumtagebuch", "Diesen Artikel bearbeiten".</sup><br />
-<sup>`•` Nakisa, Ramin (2003). "Wiki Wiki Wah Wah". Linux User and Developer v.29, pp.42-48. Disponível em: http://194.73.118.134/lud29-Collaborative_Software-Wiki.pdf[ligação inativa]</sup><br />
-<sup>`•` Remy, Melanie. (2002). Wikipedia: The Free Encyclopedia. Online Information Review. v.26, n.6, pp.434.</sup><br />
+<sup>` • ` Aigrain, Philippe (2000). The Individual and the Collective in Open Information Communities. Invited talk at the 16th Bled Electronic Commerce Conference, Bled, Slovenija, 11 de Junho de 2003. Disponível em: http://www.ufrgs.br/limc/escritacoletiva/pdf/indiv_and_collective.pdf</sup><br />
+<sup>` • ` Aronsson, Lars (2002). Operation of a Large Scale, General Purpose Wiki Website: Experience from susning.nu's first nine months in service. Paper presented at the 6th International ICCC/IFIP Conference on Electronic Publishing, 6 - 8 de Novembro, 2002, Karlovy Vary, Czech Republic. Disponível em: https://web.archive.org/web/20130724101737/http://aronsson.se/wikipaper.html</sup><br />
+<sup>` • ` Benkler, Yochai (2002). Coase's penguin, or, Linux and The Nature of the Firm. The Yale Law Jounal. v.112, n.3, pp.369-446.</sup><br />
+<sup>` • ` Cunningham, Ward and Leuf, Bo (2001): The Wiki Way. Quick Collaboration on the Web. Addison-Wesley, ISBN 0-201-71499-X.</sup><br />
+<sup>` • ` Delacroix, Jérôme (2005): Les wikis, espaces de l'intelligence collective M2 Editions, Paris, ISBN 2-9520514-4-5. Website: http://www.leswikis.com</sup><br />
+<sup>` • ` Jansson, Kurt (2002): "Wikipedia. Die Freie Enzyklopädie." Lecture at the 19th Chaos Communications Congress (19C3), 27 de Dezembro, Berlim. Descrição online: http://de.wikipedia.org/wiki/Benutzer:Kurt_Jansson/Vortrag_auf_dem_19C3</sup><br />
+<sup>` • ` Möller, Erik (2003). Loud and clear: How Internet media can work. Presentation at Open Cultures conference, June 5 - 6, Vienna. Disponível em: https://web.archive.org/web/20031012082345/http://opencultures.t0.or.at/oc/participants/moeller</sup><br />
+<sup>` • ` Möller, Erik (2003). Tanz der Gehirne. Telepolis, May 9-30. Quatro partes: "Das Wiki-Prinzip", "Alle gegen Brockhaus", "Diderots Traumtagebuch", "Diesen Artikel bearbeiten".</sup><br />
+<sup>` • ` Nakisa, Ramin (2003). "Wiki Wiki Wah Wah". Linux User and Developer v.29, pp.42-48. Disponível em: http://194.73.118.134/lud29-Collaborative_Software-Wiki.pdf[ligação inativa]</sup><br />
+<sup>` • ` Remy, Melanie. (2002). Wikipedia: The Free Encyclopedia. Online Information Review. v.26, n.6, pp.434.</sup><br />
 
 ## Ligações externas
-<sup>`•` «How did you come up with the idea for the Wiki?» (em inglês). Uma entrevista em vídeo com Ward Cunningham sobre como ele teve a ideia do Wiki</sup><br />
+<sup>` • ` «How did you come up with the idea for the Wiki?» (em inglês). Uma entrevista em vídeo com Ward Cunningham sobre como ele teve a ideia do Wiki</sup><br />
 
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
