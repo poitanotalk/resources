@@ -36,7 +36,7 @@ __Coletividade__
 > por ser editada por alguém com mais conhecimentos. Está fortemente
 > relacionado com o conceito de crowdsourcing.<sup>1</sup>
 > Alternativamente existem alguns wikis utilizadas como wikis pessoais.<br />
-> `___________________________________` <br />
+> ___________________________________ <br />
 > <sup>1. SCHENK, Eric; Guittard, Claude (2009). «Crowdsourcing: What can be
 > Outsourced to the Crowd, and Why ?» (PDF). hal.archives-ouvertes.fr[ligação
 > inativa]</sup>
