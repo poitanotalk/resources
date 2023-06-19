@@ -47,7 +47,8 @@ __Coletividade__
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
 
-Name                                              | `Java` | `CSS`   | `HTML`   | `Perl`   | `Python` | `Ruby`   | `URL`     | `Flag`
+
+Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   | `Perl`   | `Python` | `Ruby`   | `URL`     | `Flag`
 --------------------------------------------------|--------|---------|----------|----------|----------|----------|-----------|--------
  North West Arrow to Corner                       | \u21F1 | \0021F1 | &#x21F1; | \x{21F1} | \u21F1   | \u{21F1} | %E2%87%B1 | ⇱
  South East Arrow to Corner                       | \u21F2 | \0021F2 | &#x21F2; | \x{21F2} | \u21F2   | \u{21F2} | %E2%87%B2 | ⇲
@@ -57,6 +58,14 @@ Name                                              | `Java` | `CSS`   | `HTML`   
  Down Right Diagonal Ellipsis                     | \u22F1 | \0022F1 | &#x22F1; | \x{22F1} | \u22F1   | \u{22F1} | %E2%8B%B1 | ⋱
  Arrow Pointing Rightwards then Curving Upwards   | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤴
  Arrow Pointing Rightwards then Curving Downwards | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤵
+
+ 
+
+ 
+north west arrow with hook 2923 %E2%A4%A3 ⤣
+north east arrow with hook 2924 %E2%A4%A4 ⤤
+
+
  
 
 FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
