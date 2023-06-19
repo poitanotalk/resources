@@ -1,4 +1,4 @@
-###### Article
+###### Artigo
 __Por FabasaPro Designer__<br />
 <sup>Publicado em 19 de jun de 2023 às 8h49 &vellip; Atualizado em 19 de jun de 2023 às 8h49</sup>
 
@@ -8,9 +8,21 @@ Em [informática](), o __web wiki__ (['wiki'](), do havaiano "super veloz") é u
 
 O software wiki, é um tipo de sistema de gestão de conteúdo, mas diverge da maioria dos outros tais sistemas quanto a [autoria](), inclusive [software de blog](), em que o conteúdo é criado sem qualquer dono ou líder definido.
 
-Wikis possuem pouca estrutura inerente, que permite a estrutura ser melhorada de acordo com as necessidades dos utilizadores[<sup>[2]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliography). Há dezenas de diferentes softwares de wiki em uso, tanto autônomos quanto partes de outros [softwares](), como sistemas de rastreio de [bugs](). Alguns softwares de wiki são de [código aberto](), enquanto outros são [proprietários](). Alguns permitem controlo sobre diferentes funções (níveis de acesso); por exemplo, direitos de edição podem permitir alteração, adição ou remoção de material. Outros podem permitir acesso sem forçar controlo de acesso. Outras regras podem ser impostas para organizar conteúdo.[<sup>[3]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliography)
+Wikis possuem pouca estrutura inerente, que permite a estrutura ser melhorada de acordo com as necessidades dos utilizadores[<sup>[2]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia). Há dezenas de diferentes softwares de wiki em uso, tanto autônomos quanto partes de outros [softwares](), como sistemas de rastreio de [bugs](). Alguns softwares de wiki são de [código aberto](), enquanto outros são [proprietários](). Alguns permitem controlo sobre diferentes funções (níveis de acesso); por exemplo, direitos de edição podem permitir alteração, adição ou remoção de material. Outros podem permitir acesso sem forçar controlo de acesso. Outras regras podem ser impostas para organizar conteúdo.[<sup>[3]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)
 
-## Bibliography
+A enciclopédia [Wikipédia]() não é um único wiki, esta é uma união de centenas de wikis — cada um pertence a uma língua específica. Além da Wikipédia, há [milhares de outros wikis em uso](), tanto públicos quanto privados, inclusive wikis a funcionar como recursos de [gestão do conhecimento](), [ferramenta de notas](), [websites de comunidade]() e [intranets](). A Wikipédia em [língua inglesa]() possui a maior coleção de artigos; em setembro de 2016, possuía mais de cinco milhões de artigos. [Ward Cunningham](), o desenvolvedor do primeiro software wiki, [WikiWikiWeb](), descreveu-o originalmente como «a base de dados online mais simples que poderia possivelmente funcionar».[<sup>[4]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia) "[Wiki]()" (pronunciado [ˈ[wiki]()'][^1]) é uma palavra [havaiana]() que significa "rápido".[<sup>[5]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)[<sup>[6]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)[<sup>[7]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia) O projeto de enciclopédia online Wikipédia é o website baseado em wiki mais popular e é um dos sites mais amplamente vistos no mundo, tendo sido colocado no “top dez” desde 2007.
+
+## Etimologia
+
+O termo "wiki" na língua havaiana significa "super veloz", devido a velocidade de criação e atualização das páginas, uma das características que define a tecnologia colaborativa wiki.[<sup>[8]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)
+
+## Principais características
+
+Um Web Wiki permite que os documentos sejam editados colectivamente com uma linguagem de marcação muito simples e eficaz, por meio da utilização de um navegador web.[9] Dado que a grande maioria dos wikis é baseada na web, o termo wiki é normalmente suficiente. Uma única página em um wiki é referida como uma "única página", enquanto o conjunto total de páginas, que estão altamente interligadas, chama-se 'o wiki'.
+
+Uma das características definitivas da tecnologia wiki é a facilidade com que as páginas são criadas e alteradas – geralmente não existe qualquer revisão antes de as modificações serem aceitas, e a maioria dos wikis são abertos a todo o público ou pelo menos a todas as pessoas que têm acesso ao servidor wiki. Nem o registro de usuários é obrigatório em todos os wikis.[carece de fontes]
+
+## Bibliografia
 
 
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
