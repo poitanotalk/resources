@@ -4,13 +4,9 @@ __Por FabasaPro Designer__<br />
 
 # Wiki
 
-[External Link &#x2B0F;]()
+[External Link <img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />]()
 
-[External Link &#x2B11;]()
-
-
-[Link Return <sup>&#x21A9;</sup>]()
-
+[Link Return &#x21A9;]()
 
 
 Em [informática](), o __web wiki__ (['wiki'](), do havaiano "super veloz") é um [sistema de gestão de conteúdo]() e também uma [linguagem de marcação]() utilizada em [website]() que contém [hipertexto]() e [hiperligações]() que trabalham com o [software wiki](), no qual vários usuários modificam/editam [colaborativamente]() ao mesmo tempo o seu conteúdo e/ou a estrutura do wiki diretamente usando um [navegador web](), com a ajuda de um [editor de texto enriquecido]().[^1]
@@ -20,6 +16,8 @@ O software wiki, é um tipo de sistema de gestão de conteúdo, mas diverge da m
 Wikis possuem pouca estrutura inerente, que permite a estrutura ser melhorada de acordo com as necessidades dos utilizadores[<sup>[2]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia). Há dezenas de diferentes softwares de wiki em uso, tanto autônomos quanto partes de outros [softwares](), como sistemas de rastreio de [bugs](). Alguns softwares de wiki são de [código aberto](), enquanto outros são [proprietários](). Alguns permitem controlo sobre diferentes funções (níveis de acesso); por exemplo, direitos de edição podem permitir alteração, adição ou remoção de material. Outros podem permitir acesso sem forçar controlo de acesso. Outras regras podem ser impostas para organizar conteúdo.[<sup>[3]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)
 
 A enciclopédia [Wikipédia]() não é um único wiki, esta é uma união de centenas de wikis — cada um pertence a uma língua específica. Além da Wikipédia, há [milhares de outros wikis em uso](), tanto públicos quanto privados, inclusive wikis a funcionar como recursos de [gestão do conhecimento](), [ferramenta de notas](), [websites de comunidade]() e [intranets](). A Wikipédia em [língua inglesa]() possui a maior coleção de artigos; em setembro de 2016, possuía mais de cinco milhões de artigos. [Ward Cunningham](), o desenvolvedor do primeiro software wiki, [WikiWikiWeb](), descreveu-o originalmente como «a base de dados online mais simples que poderia possivelmente funcionar».[<sup>[4]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia) "[Wiki]()" (pronunciado [ˈ[wiki]()'][^1]) é uma palavra [havaiana]() que significa "rápido".[<sup>[5]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)[<sup>[6]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)[<sup>[7]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia) O projeto de enciclopédia online Wikipédia é o website baseado em wiki mais popular e é um dos sites mais amplamente vistos no mundo, tendo sido colocado no “top dez” desde 2007.
+
+Contribua para este repositório via [solicitações de pull &#x27A1;](https://github.com/poitanotalk/source/pulls)
 
 ## Etimologia
 
@@ -49,7 +47,6 @@ __Coletividade__
 > <sup>1. SCHENK, Eric; Guittard, Claude (2009). [«Crowdsourcing: What can be
 > Outsourced to the Crowd, and Why ?» &#x2B0F;](https://hal.archives-ouvertes.fr/file/index/docid/439256/filename/Crowdsourcing_eng.pdf) (PDF). hal.archives-ouvertes.fr[ligação
 > inativa]</sup>
-
 
 ## Página e edição
 
