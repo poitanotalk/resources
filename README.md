@@ -1,13 +1,12 @@
 ###### Artigo
 __Por FabasaPro Designer__<br />
-<sup>Publicado em 19 jun 2023 às 8h49 &#x2013; Atualizado em 19 jun 2023 às 8h49</sup>
+<sup>Publicado 19 jun 2023 8h49 &#x22EE; Atualizado 19 jun 2023 8h49</sup>
 
 # Wiki
 
  [External Link &#x2B0F;]()
 
  [Link Return &#x21A9;]()
-
 
 
 
