@@ -59,14 +59,24 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
  Arrow Pointing Rightwards then Curving Upwards   | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤴
  Arrow Pointing Rightwards then Curving Downwards | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤵
 
+1
 
 [External Link ⤴]()
 
 [External Link <sup>⤴</sup>]()
 
+2
+
 [External Link ⤤]()
 
 [External Link <sup>⤤</sup>]()
+
+3
+
+[External Link &#x21B1;]()
+[External Link <sup>&#x21B1;</sup>]()
+
+4
 
 [External Link ⬏]()
 
