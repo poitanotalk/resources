@@ -73,6 +73,16 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
 [External Link <sup>⬏</sup>]()
 
 
+[Link Return &#x21A9;]()
+
+[Link Return <sup>&#x21A9;<sup>]()
+
+[Link Return <sub>&#x21A9;<sub>]()
+
+
+
+
+
 <sup>&#x300C;</sup> Caso a utilização da tag button não seja uma opção, a melhor forma de escrever o seu código nestes casos é retirando o atributo href, você não tem obrigatoriedade de utiliza-lo em tudo. Qualquer bom CSS reset, como o Normalize cuida da definição padrão do estilo do cursor, para que a usabilidade possa ser mantida. Além disso, para que você tenha um código escalável e de fácil manutenção, sua lógica precisa "permanecer" no próprio JavaScript. <sub>&#x300D;</sub>
 
 
