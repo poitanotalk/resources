@@ -80,6 +80,24 @@ Uma defesa comum contra vândalos persistentes é deixá-los desfigurar tantas p
 
 Como uma medida de emergência, alguns wikis permitem que o banco de dados seja alterado para o modo apenas-leitura, enquanto outros adotam uma política em que apenas usuários que tenham sido registrados antes de algum corte arbitrário possam editar. Em geral, qualquer prejuízo infligido por um "vândalo" pode ser revertido rápida e facilmente. Mais problemáticos são os erros sutis que passam despercebidos, como a alteração de datas de lançamento de álbuns e discografias na Wikipedia.
 
+## Exemplos
+
+Para demonstrar como o wiki essencialmente precisa de somente dois níveis de controle, podem ser traçados alguns paralelos dentre as três áreas de estudos científicos (exatas, biológicas e humanas), o que facilita a visualização.
+
+Um paralelo com o funcionamento de um computador simples, como uma calculadora, por exemplo, pode-se imaginar o wiki como o próprio computador e o processador que executa o controle, enquanto o resto da calculadora a mantém funcionando, fornecendo entradas e saídas de dados em dois dispositivos diferenciados para o processador.
+
+Análogo ao funcionamento de uma célula viva, pode-se imaginar o wiki como sendo a própria célula e o núcleo faz o gerenciamento de tudo que acontece dentro, enquanto o resto da célula, o núcleo inclusive, se utiliza dos recursos disponibilizados através da membrana externa ([membrana plasmática]()) entre outros componentes da célula que executam múltiplas funções para mantê-la [viva]().
+
+Comparado com o funcionamento de uma sociedade, pode-se imaginar o wiki como sendo a própria sociedade e o núcleo seria o governo, que cria a quantidade de regras que forem sendo necessárias para manter a sociedade funcionando com base na vida e dentro das possibilidades oferecidas pela própria sociedade e pelo [ecossistema]().
+
+No ambiente da Educação Corporativa, diversas organizações estão utilizando esta tecnologia, como por exemplo, o [Banco do Brasil]() e sua Universidade Corporativa utilizam em larga escala a Tecnologia Wiki.
+
+## Ver também
+* Bliki
+* Comparação de softwares wiki
+* Lista de softwares wikis
+* Software social
+
 ## Bibliografia
 
 
