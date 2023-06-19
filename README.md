@@ -99,28 +99,28 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 * [Software social]()
 
 ## Referências
-1. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [«wiki» &#x2B0F;](), Encyclopædia Britannica, 1, London: Encyclopædia Britannica, Inc., 2007, consultado em 27 de janeiro de 2018, cópia arquivada em 24 de abril de 2008
-2. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Mitchell, Scott (julho de 2008), Easy Wiki Hosting, Scott Hanselman's blog, and Snagging Screens, MSDN Magazine, consultado em 9 de março de 2010, cópia arquivada em 16 de março de 2010
-3. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Alexa Top Sites, consultado em 1 de dezembro de 2016, cópia arquivada em 2 de março de 2015
-4. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Cunningham, Ward (27 de junho de 2002), What is a Wiki, WikiWikiWeb, consultado em 10 de abril de 2008, cópia arquivada em 16 de abril de 2008
-5. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) mauimapp.com. Hawaiian Words; Hawaiian to English [archived 14 de setembro de 2008; citado em 19 de setembro de 2008].
-6. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Hasan, Heather (2012), Wikipedia, 3.5 million articles and counting, ISBN 9781448855575, p. 11
-7. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Andrews, Lorrin (1865), A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events, Henry M. Whitney, p. 514
-8. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «wiki wiki - Tradução em português». Dicionário Linguee. Consultado em 29 de dezembro de 2022
-9. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Barrett, Daniel J (2009). MediaWiki. Sebastopol, CA: O´Reily. ISBN 978-0-596-51979-7
-10. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «Meatball Wiki: WikiMarkupStandard». meatballwiki.org. Consultado em 29 de maio de 2022
+<sup>` 1.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [«wiki» &#x2B0F;](), Encyclopædia Britannica, 1, London: Encyclopædia Britannica, Inc., 2007, consultado em 27 de janeiro de 2018, cópia arquivada em 24 de abril de 2008</sup><br />
+<sup>` 2.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Mitchell, Scott (julho de 2008), Easy Wiki Hosting, Scott Hanselman's blog, and Snagging Screens, MSDN Magazine, consultado em 9 de março de 2010, cópia arquivada em 16 de março de 2010</sup><br />
+<sup>` 3.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Alexa Top Sites, consultado em 1 de dezembro de 2016, cópia arquivada em 2 de março de 2015</sup><br />
+<sup>` 4`. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Cunningham, Ward (27 de junho de 2002), What is a Wiki, WikiWikiWeb, consultado em 10 de abril de 2008, cópia arquivada em 16 de abril de 2008</sup><br />
+<sup>` 5`. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) mauimapp.com. Hawaiian Words; Hawaiian to English [archived 14 de setembro de 2008; citado em 19 de setembro de 2008].</sup><br />
+<sup>` 6`. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Hasan, Heather (2012), Wikipedia, 3.5 million articles and counting, ISBN 9781448855575, p. 11</sup><br />
+<sup>` 7`. [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Andrews, Lorrin (1865), A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events, Henry M. Whitney, p. 514</sup><br />
+<sup>` 8.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «wiki wiki - Tradução em português». Dicionário Linguee. Consultado em 29 de dezembro de 2022</sup><br />
+<sup>` 9.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Barrett, Daniel J (2009). MediaWiki. Sebastopol, CA: O´Reily. ISBN 978-0-596-51979-7</sup><br />
+<sup>`10.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «Meatball Wiki: WikiMarkupStandard». meatballwiki.org. Consultado em 29 de maio de 2022</sup><br />
 
 ## Bibliografia
-* Aigrain, Philippe (2000). The Individual and the Collective in Open Information Communities. Invited talk at the 16th Bled Electronic Commerce Conference, Bled, Slovenija, 11 de Junho de 2003. Disponível em: http://www.ufrgs.br/limc/escritacoletiva/pdf/indiv_and_collective.pdf
-* Aronsson, Lars (2002). Operation of a Large Scale, General Purpose Wiki Website: Experience from susning.nu's first nine months in service. Paper presented at the 6th International ICCC/IFIP Conference on Electronic Publishing, 6 - 8 de Novembro, 2002, Karlovy Vary, Czech Republic. Disponível em: https://web.archive.org/web/20130724101737/http://aronsson.se/wikipaper.html
-* Benkler, Yochai (2002). Coase's penguin, or, Linux and The Nature of the Firm. The Yale Law Jounal. v.112, n.3, pp.369-446.
-* Cunningham, Ward and Leuf, Bo (2001): The Wiki Way. Quick Collaboration on the Web. Addison-Wesley, ISBN 0-201-71499-X.
-* Delacroix, Jérôme (2005): Les wikis, espaces de l'intelligence collective M2 Editions, Paris, ISBN 2-9520514-4-5. Website: http://www.leswikis.com
-* Jansson, Kurt (2002): "Wikipedia. Die Freie Enzyklopädie." Lecture at the 19th Chaos Communications Congress (19C3), 27 de Dezembro, * Berlim. Descrição online: http://de.wikipedia.org/wiki/Benutzer:Kurt_Jansson/Vortrag_auf_dem_19C3
-* Möller, Erik (2003). Loud and clear: How Internet media can work. Presentation at Open Cultures conference, June 5 - 6, Vienna. Disponível em: https://web.archive.org/web/20031012082345/http://opencultures.t0.or.at/oc/participants/moeller
-* Möller, Erik (2003). Tanz der Gehirne. Telepolis, May 9-30. Quatro partes: "Das Wiki-Prinzip", "Alle gegen Brockhaus", "Diderots Traumtagebuch", "Diesen Artikel bearbeiten".
-* Nakisa, Ramin (2003). "Wiki Wiki Wah Wah". Linux User and Developer v.29, pp.42-48. Disponível em: http://194.73.118.134/lud29-Collaborative_Software-Wiki.pdf[ligação inativa]
-* Remy, Melanie. (2002). Wikipedia: The Free Encyclopedia. Online Information Review. v.26, n.6, pp.434.
+<sup>`&#x2022;` Aigrain, Philippe (2000). The Individual and the Collective in Open Information Communities. Invited talk at the 16th Bled Electronic Commerce Conference, Bled, Slovenija, 11 de Junho de 2003. Disponível em: http://www.ufrgs.br/limc/escritacoletiva/pdf/indiv_and_collective.pdf</sup><br />
+<sup>`&#x2022;` Aronsson, Lars (2002). Operation of a Large Scale, General Purpose Wiki Website: Experience from susning.nu's first nine months in service. Paper presented at the 6th International ICCC/IFIP Conference on Electronic Publishing, 6 - 8 de Novembro, 2002, Karlovy Vary, Czech Republic. Disponível em: https://web.archive.org/web/20130724101737/http://aronsson.se/wikipaper.html</sup><br />
+<sup>`&#x2022;` Benkler, Yochai (2002). Coase's penguin, or, Linux and The Nature of the Firm. The Yale Law Jounal. v.112, n.3, pp.369-446.</sup><br />
+<sup>`&#x2022;` Cunningham, Ward and Leuf, Bo (2001): The Wiki Way. Quick Collaboration on the Web. Addison-Wesley, ISBN 0-201-71499-X.</sup><br />
+<sup>`&#x2022;` Delacroix, Jérôme (2005): Les wikis, espaces de l'intelligence collective M2 Editions, Paris, ISBN 2-9520514-4-5. Website: http://www.leswikis.com</sup><br />
+<sup>`&#x2022;` Jansson, Kurt (2002): "Wikipedia. Die Freie Enzyklopädie." Lecture at the 19th Chaos Communications Congress (19C3), 27 de Dezembro, Berlim. Descrição online: http://de.wikipedia.org/wiki/Benutzer:Kurt_Jansson/Vortrag_auf_dem_19C3</sup><br />
+<sup>`&#x2022;` Möller, Erik (2003). Loud and clear: How Internet media can work. Presentation at Open Cultures conference, June 5 - 6, Vienna. Disponível em: https://web.archive.org/web/20031012082345/http://opencultures.t0.or.at/oc/participants/moeller</sup><br />
+<sup>`&#x2022;` Möller, Erik (2003). Tanz der Gehirne. Telepolis, May 9-30. Quatro partes: "Das Wiki-Prinzip", "Alle gegen Brockhaus", "Diderots Traumtagebuch", "Diesen Artikel bearbeiten".</sup><br />
+<sup>`&#x2022;` Nakisa, Ramin (2003). "Wiki Wiki Wah Wah". Linux User and Developer v.29, pp.42-48. Disponível em: http://194.73.118.134/lud29-Collaborative_Software-Wiki.pdf[ligação inativa]</sup><br />
+<sup>`&#x2022;` Remy, Melanie. (2002). Wikipedia: The Free Encyclopedia. Online Information Review. v.26, n.6, pp.434.</sup><br />
 
 ## Ligações externas
 * «How did you come up with the idea for the Wiki?» (em inglês). Uma entrevista em vídeo com Ward Cunningham sobre como ele teve a ideia do Wiki
