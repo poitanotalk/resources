@@ -41,6 +41,27 @@ __Coletividade__
 > Outsourced to the Crowd, and Why ?» &#x2B0F;](https://hal.archives-ouvertes.fr/file/index/docid/439256/filename/Crowdsourcing_eng.pdf) (PDF). hal.archives-ouvertes.fr[ligação
 > inativa]</sup>
 
+
+## Página e edição
+
+Em wikis tradicionais, existem 3 (três) representações para cada página: o código [HTML](), a página resultante do código da sua edição pelo web browser, e o código-editado em HTML que o servidor produziu.
+
+O raciocínio por trás desse design é que o [HTML](), com sua enorme biblioteca de [tags](), dificulta uma edição mais rápida. Ele, às vezes, não pode usar toda a sua funcionalidade, como [JavaScript]() e [folhas de estilo](), por causa da consistência da linguagem.
+
+Sintaxe [Mediawiki](https://pt.wikipedia.org/wiki/MediaWiki) |	HTML |	Edição de saída
+:---|:---|:---
+"''Doutor''? Sem outro título? Um ''sábio''? É justa a autoridade civil?" "Porque, certamente," replica Harddriveing, amigavelmente. "Todos nós sábios sabemos mais ou menos." |`<p>"<i>Doutor</i>? Sem outro título? Um <i>sábio</i>? É justa a autoridade civil?" </p><p>"Porque, certamente," replica Harddriveing, amigavelmente. "Todos nós sábios sabemos mais ou menos."</p>`|"Doutor? Sem outro título? Um sábio? É justa a autoridade civil?" "Porque, certamente," replica Harddriveing, amigavelmente. "Todos nós sábios sabemos mais ou menos."
+
+Alguns mecanismos de edição wiki mais recentes usam um método diferente: suportam a edição "[WYSIWYG]()" ("What You See Is What You Get", que significa basicamente "o que se vê é o que se obtém"), geralmente com o suporte de um controle [ActiveX]() ou um [plug-in] que traduz instruções graficamente introduzidas como "negrito" ou "itálico" nas tags correspondentes de HTML.
+
+Em tais implementações, salvar uma edição corresponde ao envio de uma nova versão HTML da página ao servidor, embora o usuário seja preservado desse detalhe técnico, uma vez que o código é gerado automaticamente, de forma transparente. Usuários que não possuem o plug-in necessário podem, em geral, editar a página do mesmo modo, editando diretamente o texto em código HTML.
+
+As instruções de formatação permitidas por um wiki variam consideravelmente, dependendo do mecanismo wiki utilizado.
+
+Wikis simples permitem apenas a formatação básica, enquanto os mais complexos suportam tabelas, imagens, fórmulas, ou até elementos interativos, como votações e jogos. Por esse motivo, atualmente existe um esforço conjunto para definir um Wiki Markup Standard.[<sup>[10]</sup>](https://github.com/poitanotalk/resources/tree/main#bibliografia)
+
+
+
 ## Bibliografia
 
 
@@ -48,67 +69,6 @@ __Coletividade__
 
 
 
-Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   | `Perl`   | `Python` | `Ruby`   | `URL`     | `Flag`
---------------------------------------------------|--------|---------|----------|----------|----------|----------|-----------|--------
- North West Arrow to Corner                       | \u21F1 | \0021F1 | &#x21F1; | \x{21F1} | \u21F1   | \u{21F1} | %E2%87%B1 | ⇱
- South East Arrow to Corner                       | \u21F2 | \0021F2 | &#x21F2; | \x{21F2} | \u21F2   | \u{21F2} | %E2%87%B2 | ⇲
- Vertical Ellipsis                                | \u22EE | \0022EE | &#x22EE; | \x{22EE} | \u22EE   | \u{22EE} | %E2%8B%AE | ⋮
- Midline Horizontal Ellipsis                      | \u22EF | \0022EF | &#x22EF; | \x{22EF} | \u22EF   | \u{22EF} | %E2%8B%AF | ⋯
- Up Right Diagonal Ellipsis                       | \u22F0 | \0022F0 | &#x22F0; | \x{22F0} | \u22F0   | \u{22F0} | %E2%8B%B0 | ⋰
- Down Right Diagonal Ellipsis                     | \u22F1 | \0022F1 | &#x22F1; | \x{22F1} | \u22F1   | \u{22F1} | %E2%8B%B1 | ⋱
- Arrow Pointing Rightwards then Curving Upwards   | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤴
- Arrow Pointing Rightwards then Curving Downwards | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤵
-
-
-[External Link &#x2B0F;]()
-
-[Link Return &#x21A9;]()
-
-
-<sup>&#x300C;</sup> Caso a utilização da tag button não seja uma opção, a melhor forma de escrever o seu código nestes casos é retirando o atributo href, você não tem obrigatoriedade de utiliza-lo em tudo. Qualquer bom CSS reset, como o Normalize cuida da definição padrão do estilo do cursor, para que a usabilidade possa ser mantida. Além disso, para que você tenha um código escalável e de fácil manutenção, sua lógica precisa "permanecer" no próprio JavaScript. <sub>&#x300D;</sub>
-
-
-
-
-
-
- 
-north west arrow with hook 2923 %E2%A4%A3 ⤣
-north east arrow with hook 2924 %E2%A4%A4 ⤤
-south east arrow with hook 2925 %E2%A4%A5 ⤥
-south west arrow with hook 2926 %E2%A4%A6 ⤦
-
-
- 
-
-FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
-:----:|:-----------|:----------|:------------|:-----------------|
- ←    | `&#x2190;` | `&#8592;` | `&larr;`    | Left Arrow       |
- ↑    | `&#x2191;` | `&#8593;` | `&uarr;`    | Up Arrow         |
- →    | `&#x2192;` | `&#8594;` | `&rarr;`    | Right Arrow      |
- ↓    | `&#x2193;` | `&#8595;` | `&darr;`    | Down Arrow       |
- ↔    | `&#x2194;` | `&#8596;` | `&harr;`    | Horizontal Arrow |
- ↕    | `&#x2195;` | `&#8597;` | `&varr;`    | Vertical Arrow   |
- ↖    | `&#x2196;` | `&#8598;` | `&nwarr;`   | North West Arrow |
- ↗    | `&#x2197;` | `&#8599;` | `&nearr;`   | North East Arrow |
- ↘    | `&#x2198;` | `&#8600;` | `&searr;`   | South East Arrow |
- ↙    | `&#x2199;` | `&#8601;` | `&swarr;`   | South West Arrow |
-  ⋮    | &#x22EE; | &#8942; | &vellip;   | Vertical Ellipsis |
-  ⇱     | &#x21F1;   |&#8689;    |  &zyyy;      | North West Arrow to Corner
-
-
-> Para enfatizar sua empatia por Owen e a visão apropriacionista das forças produtivas,
-> Singer cita E. Thompson <sup data-sourcepos="37:3-40:3" dir="auto">1</sup>:
->
-> "Muito longe de ter uma perspectiva retrógrada, o owenismo foi a primeira
-> das grandes doutrinas sociais a prender a imaginação das massas naquele período,
-> que começou com a aceitação dos poderes produtivas da energia a vapor e da
-> fábrica. O que estava em questão não era a máquina e sim a motivação do lucro,
-> não as dimensões da empresa industrial, mas o controle do capital social por
-> detrás." (THOMPSON, 1998, p. 408 apud SINGER, 2011, p. 70).
-> 
-> <sup>1 THOMPSON, Edward P. **The making of the English working class.**
-> Harmondsworth: Penquin, 1998.</sup>
 
 
 
