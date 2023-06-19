@@ -59,60 +59,10 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
  Arrow Pointing Rightwards then Curving Upwards   | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤴
  Arrow Pointing Rightwards then Curving Downwards | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤵
 
-1
 
 [External Link &#x2B0F;]()
 
-[External Link <sup>&#x2B0F;</sup>]()
-
-[External Link <sub>&#x2B0F;</sub>]()
-
-<b>
- 
-[External Link &#x2B0F;]()
-
-[External Link <sup>&#x2B0F;</sup>]()
-
-[External Link <sub>&#x2B0F;</sub>]()
-
-</b>
-
-2
-
-[External Link &#x21B1;]()
-
-[External Link <sup>&#x21B1;</sup>]()
-
-[External Link <sub>&#x21B1;</sub>]()
-
-<b>
- 
-[External Link &#x21B1;]()
-
-[External Link <sup>&#x21B1;</sup>]()
-
-[External Link <sub>&#x21B1;</sub>]()
-
-</b>
-
-3
-
 [Link Return &#x21A9;]()
-
-[Link Return <sup>&#x21A9;<sup>]()
-
-[Link Return <sub>&#x21A9;<sub>]()
-
-<b>
-[Link Return &#x21A9;]()
-
-[Link Return <sup>&#x21A9;<sup>]()
-
-[Link Return <sub>&#x21A9;<sub>]()
-
-</b>
-
-
 
 
 <sup>&#x300C;</sup> Caso a utilização da tag button não seja uma opção, a melhor forma de escrever o seu código nestes casos é retirando o atributo href, você não tem obrigatoriedade de utiliza-lo em tudo. Qualquer bom CSS reset, como o Normalize cuida da definição padrão do estilo do cursor, para que a usabilidade possa ser mantida. Além disso, para que você tenha um código escalável e de fácil manutenção, sua lógica precisa "permanecer" no próprio JavaScript. <sub>&#x300D;</sub>
@@ -157,12 +107,12 @@ FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
 > não as dimensões da empresa industrial, mas o controle do capital social por
 > detrás." (THOMPSON, 1998, p. 408 apud SINGER, 2011, p. 70).
 > 
-> `___________________________________`<br />
+> <hr /> <br />
 > <sup>1 THOMPSON, Edward P. **The making of the English working class.**
 > Harmondsworth: Penquin, 1998.</sup>
 
 
-
+<p data-sourcepos="47:7-47:295" dir="auto"><a href="https://github.com/poitanotalk/resources/tree/main#wiki">↑</a> A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti']. <a href="#user-content-fnref-1-a11122b56e34e00f949ff6d20923c653" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref"><g-emoji class="g-emoji" alias="leftwards_arrow_with_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png">↩</g-emoji></a> <a href="#user-content-fnref-1-2-a11122b56e34e00f949ff6d20923c653" data-footnote-backref="" aria-label="Back to reference 1-2" class="data-footnote-backref"><g-emoji class="g-emoji" alias="leftwards_arrow_with_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png">↩</g-emoji><sup>2</sup></a></p>
 
 
 
