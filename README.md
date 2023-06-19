@@ -125,6 +125,7 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 ## Ligações externas
 * «How did you come up with the idea for the Wiki?» (em inglês). Uma entrevista em vídeo com Ward Cunningham sobre como ele teve a ideia do Wiki
 
+### Notas
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
 
