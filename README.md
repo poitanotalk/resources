@@ -100,16 +100,16 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 * [Software social]()
 
 ## Referências
-<sup>` 1.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [«wiki» &#x2B0F;](), Encyclopædia Britannica, 1, London: Encyclopædia Britannica, Inc., 2007, consultado em 27 de janeiro de 2018, cópia arquivada em 24 de abril de 2008</sup><br />
-<sup>` 2.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Mitchell, Scott (julho de 2008), Easy Wiki Hosting, Scott Hanselman's blog, and Snagging Screens, MSDN Magazine, consultado em 9 de março de 2010, cópia arquivada em 16 de março de 2010</sup><br />
-<sup>` 3.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Alexa Top Sites, consultado em 1 de dezembro de 2016, cópia arquivada em 2 de março de 2015</sup><br />
-<sup>` 4.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Cunningham, Ward (27 de junho de 2002), What is a Wiki, WikiWikiWeb, consultado em 10 de abril de 2008, cópia arquivada em 16 de abril de 2008</sup><br />
-<sup>` 5.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) mauimapp.com. Hawaiian Words; Hawaiian to English [archived 14 de setembro de 2008; citado em 19 de setembro de 2008].</sup><br />
-<sup>` 6.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Hasan, Heather (2012), Wikipedia, 3.5 million articles and counting, ISBN 9781448855575, p. 11</sup><br />
-<sup>` 7.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Andrews, Lorrin (1865), A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events, Henry M. Whitney, p. 514</sup><br />
-<sup>` 8.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «wiki wiki - Tradução em português». Dicionário Linguee. Consultado em 29 de dezembro de 2022</sup><br />
-<sup>` 9.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Barrett, Daniel J (2009). MediaWiki. Sebastopol, CA: O´Reily. ISBN 978-0-596-51979-7</sup><br />
-<sup>`10.` [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «Meatball Wiki: WikiMarkupStandard». meatballwiki.org. Consultado em 29 de maio de 2022</sup><br />
+<sup>` 1.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [«wiki» &#x2B0F;](), Encyclopædia Britannica, 1, London: Encyclopædia Britannica, Inc., 2007, consultado em 27 de janeiro de 2018, cópia arquivada em 24 de abril de 2008</sup><br />
+<sup>` 2.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Mitchell, Scott (julho de 2008), Easy Wiki Hosting, Scott Hanselman's blog, and Snagging Screens, MSDN Magazine, consultado em 9 de março de 2010, cópia arquivada em 16 de março de 2010</sup><br />
+<sup>` 3.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Alexa Top Sites, consultado em 1 de dezembro de 2016, cópia arquivada em 2 de março de 2015</sup><br />
+<sup>` 4.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Cunningham, Ward (27 de junho de 2002), What is a Wiki, WikiWikiWeb, consultado em 10 de abril de 2008, cópia arquivada em 16 de abril de 2008</sup><br />
+<sup>` 5.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) mauimapp.com. Hawaiian Words; Hawaiian to English [archived 14 de setembro de 2008; citado em 19 de setembro de 2008].</sup><br />
+<sup>` 6.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Hasan, Heather (2012), Wikipedia, 3.5 million articles and counting, ISBN 9781448855575, p. 11</sup><br />
+<sup>` 7.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Andrews, Lorrin (1865), A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events, Henry M. Whitney, p. 514</sup><br />
+<sup>` 8.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «wiki wiki - Tradução em português». Dicionário Linguee. Consultado em 29 de dezembro de 2022</sup><br />
+<sup>` 9.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) Barrett, Daniel J (2009). MediaWiki. Sebastopol, CA: O´Reily. ISBN 978-0-596-51979-7</sup><br />
+<sup>`10.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) «Meatball Wiki: WikiMarkupStandard». meatballwiki.org. Consultado em 29 de maio de 2022</sup><br />
 
 ## Bibliografia
 <ul>
