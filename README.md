@@ -1,4 +1,32 @@
+###### Artigo
+__Por FabasaPro Designer__<br />
+<sup>Publicado em 19 de jun de 2023 às 8h49 &vellip; Atualizado em 19 de jun de 2023 às 8h49
 
+Wiki
+---
+
+
+
+
+Em [informática](), o __web wiki__ (['wiki'](), do havaiano "super veloz") é um [sistema de gestão de conteúdo]() e também uma [linguagem de marcação]() utilizada em [website]() que contém [hipertexto]() e [hiperligações]() que trabalham com o [software wiki](), no qual vários usuários modificam/editam [colaborativamente]() ao mesmo tempo o seu conteúdo e/ou a estrutura do wiki diretamente usando um [navegador web](), com a ajuda de um [editor de texto enriquecido]().[^1]
+
+[^1]: [&uarr;](https://github.com/poitanotalk/source/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
+
+
+ 
+ FLAG | HEX CODE   | HTML CODE | HTML ENTITY | FLAG NAME        |
+:----:|:-----------|:----------|:------------|:-----------------|
+ ←    | `&#x2190;` | `&#8592;` | `&larr;`    | Left Arrow       |
+ ↑    | `&#x2191;` | `&#8593;` | `&uarr;`    | Up Arrow         |
+ →    | `&#x2192;` | `&#8594;` | `&rarr;`    | Right Arrow      |
+ ↓    | `&#x2193;` | `&#8595;` | `&darr;`    | Down Arrow       |
+ ↔    | `&#x2194;` | `&#8596;` | `&harr;`    | Horizontal Arrow |
+ ↕    | `&#x2195;` | `&#8597;` | `&varr;`    | Vertical Arrow   |
+ ↖    | `&#x2196;` | `&#8598;` | `&nwarr;`   | North West Arrow |
+ ↗    | `&#x2197;` | `&#8599;` | `&nearr;`   | North East Arrow |
+ ↘    | `&#x2198;` | `&#8600;` | `&searr;`   | South East Arrow |
+ ↙    | `&#x2199;` | `&#8601;` | `&swarr;`   | South West Arrow |
+  ⋮    | &#x22EE; | &#8942; | &vellip;   | Vertical Ellipsis |
 
 
 > Para enfatizar sua empatia por Owen e a visão apropriacionista das forças produtivas,
