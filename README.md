@@ -6,7 +6,7 @@ __Por FabasaPro Designer__<br />
 
  [External Link &#x2B0F;]()
 
- [Link Return &#x21A9;]()
+ [Link Return <sup>&#x21A9;<sup>]()
 
 
 
