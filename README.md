@@ -4,11 +4,6 @@ __Por FabasaPro Designer__<br />
 
 # Wiki
 
-[External Link <img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />]()
-
-[Link Return &#x21A9;]()
-
-
 Em [informática](), o __web wiki__ (['wiki'](), do havaiano "super veloz") é um [sistema de gestão de conteúdo]() e também uma [linguagem de marcação]() utilizada em [website]() que contém [hipertexto]() e [hiperligações]() que trabalham com o [software wiki](), no qual vários usuários modificam/editam [colaborativamente]() ao mesmo tempo o seu conteúdo e/ou a estrutura do wiki diretamente usando um [navegador web](), com a ajuda de um [editor de texto enriquecido]().[^1]
 
 O software wiki, é um tipo de sistema de gestão de conteúdo, mas diverge da maioria dos outros tais sistemas quanto a [autoria](), inclusive [software de blog](), em que o conteúdo é criado sem qualquer dono ou líder definido.
