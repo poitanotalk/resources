@@ -59,7 +59,26 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
  Arrow Pointing Rightwards then Curving Upwards   | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤴
  Arrow Pointing Rightwards then Curving Downwards | \u2934 | \002934 | &#x2934; | \x{2934} | \u2934   | \u{2934} | %E2%A4%B4 | ⤵
 
- 
+
+[External Link ⤴]()
+
+[External Link <sup>⤴</sup>]()
+
+[External Link ⤤]()
+
+[External Link <sup>⤤</sup>]()
+
+[External Link ⬏]()
+
+[External Link <sup>⬏</sup>]()
+
+
+<sup>&#x300C;</sup> Caso a utilização da tag button não seja uma opção, a melhor forma de escrever o seu código nestes casos é retirando o atributo href, você não tem obrigatoriedade de utiliza-lo em tudo. Qualquer bom CSS reset, como o Normalize cuida da definição padrão do estilo do cursor, para que a usabilidade possa ser mantida. Além disso, para que você tenha um código escalável e de fácil manutenção, sua lógica precisa "permanecer" no próprio JavaScript. <sub>&#x300D;</sub>
+
+
+
+
+
 
  
 north west arrow with hook 2923 %E2%A4%A3 ⤣
