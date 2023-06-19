@@ -37,8 +37,8 @@ __Coletividade__
 > relacionado com o conceito de crowdsourcing.<sup>1</sup>
 > Alternativamente existem alguns wikis utilizadas como wikis pessoais.<br />
 > ___________________________________ <br />
-> <sup>1. SCHENK, Eric; Guittard, Claude (2009). «Crowdsourcing: What can be
-> Outsourced to the Crowd, and Why ?» (PDF). hal.archives-ouvertes.fr[ligação
+> <sup>1. SCHENK, Eric; Guittard, Claude (2009). [«Crowdsourcing: What can be
+> Outsourced to the Crowd, and Why ?»](https://hal.archives-ouvertes.fr/file/index/docid/439256/filename/Crowdsourcing_eng.pdf) (PDF). hal.archives-ouvertes.fr[ligação
 > inativa]</sup>
 
 ## Bibliografia
