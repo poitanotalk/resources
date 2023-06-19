@@ -61,27 +61,41 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
 
 1
 
-[External Link ⤴]()
+[External Link &#x2B0F;]()
 
-[External Link <sup>⤴</sup>]()
+[External Link <sup>&#x2B0F;</sup>]()
+
+[External Link <sub>&#x2B0F;</sub>]()
+
+<b>
+ 
+[External Link &#x2B0F;]()
+
+[External Link <sup>&#x2B0F;</sup>]()
+
+[External Link <sub>&#x2B0F;</sub>]()
+
+</b>
 
 2
 
-[External Link ⤤]()
-
-[External Link <sup>⤤</sup>]()
-
-3
-
 [External Link &#x21B1;]()
+
 [External Link <sup>&#x21B1;</sup>]()
 
-4
+[External Link <sub>&#x21B1;</sub>]()
 
-[External Link ⬏]()
+<b>
+ 
+[External Link &#x21B1;]()
 
-[External Link <sup>⬏</sup>]()
+[External Link <sup>&#x21B1;</sup>]()
 
+[External Link <sub>&#x21B1;</sub>]()
+
+</b>
+
+3
 
 [Link Return &#x21A9;]()
 
@@ -89,6 +103,14 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
 
 [Link Return <sub>&#x21A9;<sub>]()
 
+<b>
+[Link Return &#x21A9;]()
+
+[Link Return <sup>&#x21A9;<sup>]()
+
+[Link Return <sub>&#x21A9;<sub>]()
+
+</b>
 
 
 
