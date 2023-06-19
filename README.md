@@ -64,6 +64,8 @@ Flag Name By [Graphemica](https://graphemica.com) | `Java` | `CSS`   | `HTML`   
  
 north west arrow with hook 2923 %E2%A4%A3 ⤣
 north east arrow with hook 2924 %E2%A4%A4 ⤤
+south east arrow with hook 2925 %E2%A4%A5 ⤥
+south west arrow with hook 2926 %E2%A4%A6 ⤦
 
 
  
