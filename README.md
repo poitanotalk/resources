@@ -93,10 +93,25 @@ Comparado com o funcionamento de uma sociedade, pode-se imaginar o wiki como sen
 No ambiente da Educação Corporativa, diversas organizações estão utilizando esta tecnologia, como por exemplo, o [Banco do Brasil]() e sua Universidade Corporativa utilizam em larga escala a Tecnologia Wiki.
 
 ## Ver também
-* Bliki
-* Comparação de softwares wiki
-* Lista de softwares wikis
-* Software social
+* [Bliki]()
+* [Comparação de softwares wiki]()
+* [Lista de softwares wikis]()
+* [Software social]()
+
+## Referências
+<sup>
+1. «wiki», Encyclopædia Britannica, 1, London: Encyclopædia Britannica, Inc., 2007, consultado em 27 de janeiro de 2018, cópia arquivada em 24 de abril de 2008
+2. Mitchell, Scott (julho de 2008), Easy Wiki Hosting, Scott Hanselman's blog, and Snagging Screens, MSDN Magazine, consultado em 9 de março de 2010, cópia arquivada em 16 de março de 2010
+3. Alexa Top Sites, consultado em 1 de dezembro de 2016, cópia arquivada em 2 de março de 2015
+4. Cunningham, Ward (27 de junho de 2002), What is a Wiki, WikiWikiWeb, consultado em 10 de abril de 2008, cópia arquivada em 16 de abril de 2008
+5. mauimapp.com. Hawaiian Words; Hawaiian to English [archived 14 de setembro de 2008; citado em 19 de setembro de 2008].
+6. Hasan, Heather (2012), Wikipedia, 3.5 million articles and counting, ISBN 9781448855575, p. 11
+7. Andrews, Lorrin (1865), A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events, Henry M. Whitney, p. 514
+8. «wiki wiki - Tradução em português». Dicionário Linguee. Consultado em 29 de dezembro de 2022
+9. Barrett, Daniel J (2009). MediaWiki. Sebastopol, CA: O´Reily. ISBN 978-0-596-51979-7
+10. «Meatball Wiki: WikiMarkupStandard». meatballwiki.org. Consultado em 29 de maio de 2022
+</sup>
+
 
 ## Bibliografia
 
