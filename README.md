@@ -1,14 +1,17 @@
-###### Artigo
+###### Article
 __Por FabasaPro Designer__<br />
-<sup>Publicado em 19 de jun de 2023 às 8h49 &vellip; Atualizado em 19 de jun de 2023 às 8h49
+<sup>Publicado em 19 de jun de 2023 às 8h49 &vellip; Atualizado em 19 de jun de 2023 às 8h49</sup>
 
-Wiki
----
-
-
-
+# Wiki
 
 Em [informática](), o __web wiki__ (['wiki'](), do havaiano "super veloz") é um [sistema de gestão de conteúdo]() e também uma [linguagem de marcação]() utilizada em [website]() que contém [hipertexto]() e [hiperligações]() que trabalham com o [software wiki](), no qual vários usuários modificam/editam [colaborativamente]() ao mesmo tempo o seu conteúdo e/ou a estrutura do wiki diretamente usando um [navegador web](), com a ajuda de um [editor de texto enriquecido]().[^1]
+
+O software wiki, é um tipo de sistema de gestão de conteúdo, mas diverge da maioria dos outros tais sistemas quanto a [autoria](), inclusive [software de blog](), em que o conteúdo é criado sem qualquer dono ou líder definido.
+
+Wikis possuem pouca estrutura inerente, que permite a estrutura ser melhorada de acordo com as necessidades dos utilizadores[<sup>[2]</sup>](https://github.com/poitanotalk/source/tree/main#bibliography). Há dezenas de diferentes softwares de wiki em uso, tanto autônomos quanto partes de outros [softwares](), como sistemas de rastreio de [bugs](). Alguns softwares de wiki são de [código aberto](), enquanto outros são [proprietários](). Alguns permitem controlo sobre diferentes funções (níveis de acesso); por exemplo, direitos de edição podem permitir alteração, adição ou remoção de material. Outros podem permitir acesso sem forçar controlo de acesso. Outras regras podem ser impostas para organizar conteúdo.[<sup>[3]</sup>](https://github.com/poitanotalk/source/tree/main#bibliography)
+
+## Bibliography
+
 
 [^1]: [&uarr;](https://github.com/poitanotalk/source/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
