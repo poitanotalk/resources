@@ -1,3 +1,26 @@
+
+<table border="0" align="none">
+    <caption>table-header, table-data</caption>
+    <tr align="none">
+        <th>header 1</th>
+        <th>header 2</th>
+        <th>header 3</th>
+    </tr>
+    <tr align="none">
+        <td>data 1</td>
+        <td>data 2</td>
+        <td>data 3</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
 ###### Artigo
 __Por FabasaPro Designer__<br />
 <sup>Publicado 19 jun 2023 8h49 &#x22EE; Atualizado 19 jun 2023 8h49</sup>
