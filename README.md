@@ -7,9 +7,6 @@
 
 
 
-
-
-
 <table border="0" align="none">
     <caption>Uma tabela é composta de header e data:</caption>
     <tr align="none">
