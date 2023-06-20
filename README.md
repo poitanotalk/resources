@@ -1,8 +1,25 @@
 
 
-> ![exclamation circle](https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg) __Dica__<br />
-> Você pode usar propriedades da _classe_ `System.Diagnostics.FileVersionInfo`
-> para obter informações sobre um arquivo em disco.
+> ![tip](https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg) __Dica__<br />
+>
+> Codificação HTML
+> 
+> Quando você exibe o conteúdo em uma página usando o @ caractere, como nos
+> exemplos anteriores, ASP.NET HTML codifica a saída. Isso substitui
+> caracteres HTML reservados (como < e > ) por códigos que permitem que os
+> caracteres sejam exibidos como caracteres em uma página da Web em vez de
+> serem interpretados como marcas HTML ou entidades. Sem codificação HTML,
+> a saída do código do servidor pode não ser exibida corretamente e pode
+> expor uma página a riscos de segurança.
+>
+> Se sua meta for gerar marcação HTML que renderize marcas como marcação
+> (por exemplo `<p></p>` , um parágrafo ou <em></em> para enfatizar o texto),
+> consulte a seção Combinando Texto, Marcação e Código em Blocos de Código
+> mais adiante neste artigo.
+>
+> Você pode ler mais sobre codificação HTML no Working with HTML Forms in
+> Páginas da Web do ASP.NET Sites.
+
 
 <blockquote>
     <p>
@@ -11,11 +28,14 @@
              src="https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg"
              width="16px"
              title="blockquote tip" />
-        <strong>Dica</strong><br />
-        Você pode usar propriedades da <em>classe</em> <code>System.Diagnostics.FileVersionInfo</code>
-        para obter informações sobre um arquivo em disco.
+        <strong>Dica</strong><br /><br/>
+        Codificação HTML<br /><br />
+        Quando você exibe o conteúdo em uma página usando o @ caractere, como nos exemplos anteriores, ASP.NET HTML codifica a saída. Isso substitui caracteres HTML reservados (como < e >) por códigos que permitem que os caracteres sejam exibidos como caracteres em uma página da Web em vez de serem interpretados como marcas HTML ou entidades. Sem codificação HTML, a saída do código do servidor pode não ser exibida corretamente e pode expor uma página a riscos de segurança.<br /><br />
+        Se sua meta for gerar marcação HTML que renderize marcas como marcação (por exemplo p, um parágrafo ou <em></em> para enfatizar o texto), consulte a seção Combinando Texto, Marcação e Código em Blocos de Código mais adiante neste artigo.<br /> <br />
+        Você pode ler mais sobre codificação HTML no Working with HTML Forms in Páginas da Web do ASP.NET Sites.
     </p>
 </blockquote>
+
 
 
 
