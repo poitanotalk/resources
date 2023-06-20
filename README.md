@@ -1,6 +1,13 @@
 
+
+
+<table><caption> ❕❗❔❓⚠⛔❎ NOTA</caption><tr><td>Se houver uma colisão de nomes, o nome da propriedade para acessar um formulário é RootNamespace_Namespace_FormName. Por exemplo, considere dois formulários denominados Form1.Se um desses formulários estiver no namespace raiz WindowsApplication1 e no namespace &nbsp Namespace1, você acessaria esse formulário por meio de My.Forms.WindowsApplication1_Namespace1_Form1.</td></tr></table>table>
+
+
+1
+
 <table border="0" align="none">
-    <caption>table-header, table-data</caption>
+    <caption>Uma tabela é composta de header e data:</caption>
     <tr align="none">
         <th>header 1</th>
         <th>header 2</th>
@@ -13,6 +20,19 @@
     </tr>
 </table>
 
+<table border="0" align="none">
+    <caption>Uma tabela é composta de header e data:</caption>
+    <tr align="none">
+        <th>header 1</th>
+        <td>data 2</td>
+        <td>data 3</td>
+    </tr>
+    <tr align="none">
+        <th>header 2</th>
+        <td>data 2</td>
+        <td>data 3</td>
+    </tr>
+</table>
 
 
 
