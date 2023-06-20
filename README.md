@@ -1,9 +1,8 @@
 
 
-> __&#xF333; Observação__<br />
+> ![exclamation circle](https://github.com/poitanotalk/resources/blob/main/svg/tools/exclamationcircle.svg) __Observação__<br />
 > Você pode usar propriedades da classe `System.Diagnostics.FileVersionInfo`
 > para obter informações sobre um arquivo em disco.
-
 
 
 
