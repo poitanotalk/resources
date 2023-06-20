@@ -1,23 +1,28 @@
 
 
-> ![exclamation circle](https://github.com/poitanotalk/resources/blob/main/svg/tools/exclamationcircle.svg) __Nota__<br />
+> ![exclamation circle](https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg) __Dica__<br />
 > Você pode usar propriedades da _classe_ `System.Diagnostics.FileVersionInfo`
 > para obter informações sobre um arquivo em disco.
 
 <blockquote>
     <p>
-        <img alt="note"
+        <img alt="tip"
              height="16px"
-             src="https://github.com/poitanotalk/resources/raw/main/svg/tools/exclamationcircle.svg"
+             src="https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg"
              width="16px"
-             title="blockquote note" />
-        <strong>Nota</strong><br />
+             title="blockquote tip" />
+        <strong>Dica</strong><br />
         Você pode usar propriedades da <em>classe</em> <code>System.Diagnostics.FileVersionInfo</code>
         para obter informações sobre um arquivo em disco.
     </p>
 </blockquote>
 
 
+
+
+<a href="" title="external link">External Link <img alt="note" height="16px" src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" width="16px" title="external link" /></a>
+
+[External Link ![externallink](https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg)]()
 
 
 
