@@ -1,13 +1,21 @@
 
 
-
-> __❕❗❔❓⚠⛔NOTA__ <br />
+> <b>❕ Observação</b><br />
 > Se houver uma colisão de nomes, o nome da propriedade para acessar
 > um formulário é _`RootNamespace_Namespace_FormName`_. Por exemplo,
 > considere dois formulários denominados `Form1`. Se um desses formulários
 > estiver no namespace raiz `WindowsApplication1` e no `namespace`
 > Namespace1, você acessaria esse formulário por meio de
 > `My.Forms.WindowsApplication1_Namespace1_Form1`.
+
+
+> <sub><b>❕ Observação</b><br />
+> Se houver uma colisão de nomes, o nome da propriedade para acessar
+> um formulário é _`RootNamespace_Namespace_FormName`_. Por exemplo,
+> considere dois formulários denominados `Form1`. Se um desses formulários
+> estiver no namespace raiz `WindowsApplication1` e no `namespace`
+> Namespace1, você acessaria esse formulário por meio de
+> `My.Forms.WindowsApplication1_Namespace1_Form1`.</sub>
 
 
 
