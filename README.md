@@ -1,25 +1,15 @@
 
 
-> <b>❕ Observação</b><br />
-> Se houver uma colisão de nomes, o nome da propriedade para acessar
-> um formulário é _`RootNamespace_Namespace_FormName`_. Por exemplo,
-> considere dois formulários denominados `Form1`. Se um desses formulários
-> estiver no namespace raiz `WindowsApplication1` e no `namespace`
-> Namespace1, você acessaria esse formulário por meio de
-> `My.Forms.WindowsApplication1_Namespace1_Form1`.
-
-
-> <sub><b>❕ Observação</b><br />
-> Se houver uma colisão de nomes, o nome da propriedade para acessar
-> um formulário é _`RootNamespace_Namespace_FormName`_. Por exemplo,
-> considere dois formulários denominados `Form1`. Se um desses formulários
-> estiver no namespace raiz `WindowsApplication1` e no `namespace`
-> Namespace1, você acessaria esse formulário por meio de
-> `My.Forms.WindowsApplication1_Namespace1_Form1`.</sub>
+> __&#xF333; Observação__<br />
+> Você pode usar propriedades da classe `System.Diagnostics.FileVersionInfo`
+> para obter informações sobre um arquivo em disco.
 
 
 
-1
+
+
+
+
 
 <table border="0" align="none">
     <caption>Uma tabela é composta de header e data:</caption>
