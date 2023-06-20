@@ -1,8 +1,20 @@
 
 
 > ![exclamation circle](https://github.com/poitanotalk/resources/blob/main/svg/tools/exclamationcircle.svg) __Observação__<br />
-> Você pode usar propriedades da classe `System.Diagnostics.FileVersionInfo`
+> Você pode usar propriedades da _classe_ `System.Diagnostics.FileVersionInfo`
 > para obter informações sobre um arquivo em disco.
+
+<blockquote>
+    <p><img src="https://github.com/poitanotalk/resources/raw/main/svg/tools/exclamationcircle.svg"
+            alt="img"
+            width="16px"
+            title="blockquote-note">
+        <strong>Observação</strong><br>
+        Você pode usar propriedades da <em>classe</em> <code>System.Diagnostics.FileVersionInfo</code>
+        para obter informações sobre um arquivo em disco.
+    </p>
+</blockquote>
+
 
 
 
