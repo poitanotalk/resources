@@ -32,8 +32,8 @@ Loop Until i > 10 ' até i > 10
 
 ## Consulte também
 - [`Exit`]()
-- [`For...Next`]()
-- [`While...Wend`]()
+- [`For`...`Next`]()
+- [`While`...`Wend`]()
 
 ---
 
