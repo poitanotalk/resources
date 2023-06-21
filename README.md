@@ -17,20 +17,19 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 A parte _condição_ é uma expressão Boolean, enquanto que a parte _bloco-instruções_ é uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
 
 ## Exemplo
-
-' A cláusula While repete enquanto i for < 10:
 ```basic
+' Enquanto i é < 10:
 Dim i = 0
-Do While i < 10 ' 
+Do While i < 10 
     i = i + 1
 Loop
 ```
-' A cláusula Until repete até i se torne > 10:
 ```basic
+' Até i se torne > 10:
 Dim i = 0
 Do
     i = i + 1
-Loop Until i > 10 ' cláusula until
+Loop Until i > 10
 ```
 
 ## Consulte também
