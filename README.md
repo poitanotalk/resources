@@ -1,3 +1,38 @@
+# Wiki Hyperlinks
+
+Criado em 20 de junho de 2023 às 19h00 &#x22EE; Atualizado em 21 de junho de 2023 às 12h30
+
+
+Conteúdos de `Blogs`, `Artigos`, `Posts`, `Tutoriais`, `Projetos` e `Samples` podem pertencer ao mesmo contexto, pora isso este repositório foi criado, para evitar ambiguidades e disponibilizar `Hiperlinks` em um único `Commit` em nível global.
+
+# Histórico
+
++ 21 jun 2023 - Apply ISS standard
++ 20 jun 2023 - Set a default format
++ 20 jun 2023 - Initial commit
+
+---
+
+[`Blogs`](https://github.com/fabasapro/wikis/blogs) &#x22EE; [`Tutoriais`](https://github.com/fabasapro/wikis/tutorials) &#x22EE; [`Contribuir`](https://github.com/fabasapro/wikilinks/pulls) &#x22EE; [`Termos de Uso`](LICENSE)
+
+<sup><b>Copyright © 2023 Fábio Santos. All rights reserved.</b></sup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Artigo
 
 By FabasaPro for Social<br /><sup>Publicado 19 Jun 2023 8h49 &#x22EE; Atualizado 19 Jun 2023 8h49</sup>
