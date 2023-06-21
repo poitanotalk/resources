@@ -28,9 +28,9 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [CCC](./resources/tree/main#ABCDF)
 
-[DDD](./tree/main#ABCDF)
+[DDD](./tree)
 
-[EEE](./main#ABCDF)
+[EEE](./main)
 
 [FFF](./#ABCDF)
 
