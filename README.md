@@ -37,9 +37,10 @@ Loop Until i > 10 ' até i > 10
 
 ---
 
-[`Artigos`]() ⋮ [`Posts`]() ⋮ [`Projetos`]() ⋮ [`Samples`]() ⋮ [`Contribuir`](https://github.com/fabasapro/wikilinks/pulls) ⋮ [`Termos de Uso`](LICENSE)
+[`Blogs`](https://github.com/fabasapro/wikis/blogs) &#x22EE; [`Tutoriais`](https://github.com/fabasapro/wikis/tutorials) &#x22EE; [`Contribuir`](https://github.com/fabasapro/wikilinks/pulls) &#x22EE; [`Termos de Uso`](LICENSE)
 
-<sup><b>Copyright © 1996 - 2023 @FabasaPro for Social. All rights reserved.</b></sup>
+<sup><b>Copyright © 1996-2023 Fábio Santos. All rights reserved.</b></sup>
+
 
 
 
