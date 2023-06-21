@@ -1,4 +1,57 @@
 
+# `DO`...`LOOP`
+
+Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
+
+> __`DO`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
+> &nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
+> __`LOOP`__<br />
+
+> __`DO`__<br />
+> &nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
+> __`LOOP`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
+
+■ condition    Uma expressao numérica que o Basic avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
+
+Exemplo:
+
+```vba
+Dim i As System.Int32 = 0
+System.Console.WriteLine("Valor de i no início do loop‚ {0}", i)
+DO WHILE i < 10
+    i += 1
+LOOP
+System.Console.WriteLine("Valor de i no final do loop‚ {0}", i)
+```
+
+Consulte também  `EXIT`    `FOR...NEXT`    `WHILE...WEND`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > ![tip](https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg) __Dica__<br />
 >
