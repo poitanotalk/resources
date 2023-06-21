@@ -24,17 +24,11 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [AAA](https://github.com/poitanotalk/resources/tree/main#ABCDF)
 
-[BBB](./poitanotalk/resources/tree/main#ABCDF)
+[BBB](./#ABCDF)
 
-[CCC](./resources/tree/main#ABCDF)
+[CCC](https://tecnoblog.net/responde/como-criar-link-para-um-trecho-de-uma-pagina-no-google-chrome/#:~:text=um%20trecho%20espec%C3%ADfico%3B-,Pesquise%20o%20trecho,-Na%20p%C3%A1gina%20que)
 
-[DDD](./tree)
-
-[EEE](./main)
-
-[FFF](./#ABCDF)
-
-[AAA](https://github.com/poitanotalk/resources/blob/main#ABCDF)
+[DDD](https://github.com/poitanotalk/resources/edit/main/README.md#:~:text=ideia%20do%20Wiki-,ABCDF,-test)
 
 ## Exemplo
 
