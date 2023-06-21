@@ -22,17 +22,17 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 <sup>` 2.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [*bloco-instruções*]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
 
 
-[AAA](https://github.com/poitanotalk/resources/tree/main#a)
+[AAA](https://github.com/poitanotalk/resources/tree/main#ABCDF)
 
-[BBB](./poitanotalk/resources/tree/main#a)
+[BBB](./poitanotalk/resources/tree/main#ABCDF)
 
-[CCC](./resources/tree/main#a)
+[CCC](./resources/tree/main#ABCDF)
 
-[DDD](./tree/main#a)
+[DDD](./tree/main#ABCDF)
 
-[EEE](./main#a)
+[EEE](./main#ABCDF)
 
-[FFF](./#a)
+[FFF](./#ABCDF)
 
 ## Exemplo
 
@@ -306,7 +306,9 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
-# A B C D
+# ABCDF
+
+test
 
 
 
