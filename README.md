@@ -30,7 +30,7 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [DDD](https://github.com/poitanotalk/resources/tree/main#:~:text=ideia%20do%20Wiki-,ABCDF,-test)
 
-[EEE](./#:~:text=ideia%20do%20Wiki-,ABCDF,-test)
+[EEE](https://github.com/poitanotalk/resources/tree/main#:~:text=ideia%20do%20Wiki-,ABCDF)
 
 ## Exemplo
 
