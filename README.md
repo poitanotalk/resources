@@ -1,19 +1,19 @@
 
-# Instrução `DO`...`LOOP` (`Visual Basic`)
+# Instrução `Do`...`Loop` (`Visual Basic`)
 
 Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
 
-> **`DO`** [ { **`WHILE`** | **`UNTIL`** } *condição* ]<br />
-> &nbsp;&nbsp;&nbsp;&nbsp;[ *bloco-instruções* ]<br />
-> **`LOOP`**<br />
+## Sintaxe
 
-> __`DO`__<br />
-> &nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
-> __`LOOP`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
+**`DO`** [ { **`WHILE`** | **`UNTIL`** } *condição* ]<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[ *bloco-instruções* ]<br />
+**`LOOP`**<br />
 
-■ condition    Uma expressao numérica que o Basic avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
+__`DO`__<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
+__`LOOP`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
 
-Exemplos:
+## Exemplos
 
 ```basic
 Dim i = 0
@@ -22,20 +22,26 @@ Do
     If i > 10 Then Exit Do ' saiir quando i for 11.
 Loop
 ```
+
 ```basic
 Dim i = 0
-Do While i < 10 ' cláusula while.
+Do While i < 10 ' cláusula while no início.
     i = i + 1
 Loop
 ```
+
 ```basic
 Dim i = 0
 Do
     i = i + 1
-Loop Until i > 10 ' cláusula until.
+Loop Until i > 10 ' cláusula until no final.
 ```
 
-Consulte também  `EXIT`    `FOR...NEXT`    `WHILE...WEND`
+> ![tip](https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg) __Dica__<br />
+> *condition*
+> Uma expressao numérica que o Basic avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
+
+Consulte também&nbsp;&nbsp;&nbsp;&nbsp;[`Exit`]()&nbsp;&nbsp;&nbsp;&nbsp;[`For...Next`]()&nbsp;&nbsp;&nbsp;&nbsp;[`While...Wend`]()
 
 
 
