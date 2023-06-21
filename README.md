@@ -13,7 +13,7 @@ __`DO`__<br />
 &nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
 __`LOOP`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
 
-## Exemplos
+## Exemplo
 
 ```basic
 Dim i = 0
