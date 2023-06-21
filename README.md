@@ -21,21 +21,15 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 <sup>` 1.`[&uarr;](./resources/tree/main#sintaxe) **_condição_**]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
 <sup>` 2.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [*bloco-instruções*]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
 
-[AAA](https://github.com/poitanotalk/resources/tree/main#ABCDF)
+[AAA1](https://github.com/poitanotalk/resources/tree/main#ABCDEF)
 
-[BBB](https://github.com/poitanotalk/resources/tree/main#:~:text=ABCDF-,test)
+[BBB1](https://github.com/poitanotalk/resources/tree/main#:~:text=ABCDEF-,test)
 
-[CCC](#ABCDF)
+[AAA2](https://github.com/poitanotalk/resources/tree/main/#ABCDEF)
 
-[DDD](#ABCDF:~:text=test)
+[BBB2](https://github.com/poitanotalk/resources/tree/main/#:~:text=ABCDEF-,test)
 
-[README HEX](https://github.com/poitanotalk/resources/tree/main/README.md#:~:text=test-,HEX,-text)
 
-[HEX](https://github.com/poitanotalk/resources/tree/main/#:~:text=test-,HEX,-text)
-
-[ANY1](#:~:text=test-,HEX,-text)
-
-[ANY2](#ABCDEF:~:text=test-,HEX,-text)
 
 
 
