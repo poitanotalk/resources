@@ -14,7 +14,7 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 `'` _bloco-instruções_<br />
 `LOOP` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
 
-A parte _condição_ é uma expressão Boolean, enquanto que a parte _bloco-instruções_ é uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
+A parte da **_condição_** é uma expressão booleana { verdadeiro | falso }. Expressões numéricas **_enquanto i < 10_** ou **_até i > 10_** são avaliadas como objeto verdadeiro (diferente de zero) ou falso (zero).
 
 ## Exemplo
 ```basic
