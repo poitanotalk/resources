@@ -2,13 +2,9 @@
 
 By FabasaPro for Social<br /><sup>Publicado 19 Jun 2023 8h49 &#x22EE; Atualizado 19 Jun 2023 8h49</sup>
 
-## Instrução
-
-`DO`...`LOOP`
+## Sintaxe
 
 Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.</sup>
-
-## Sintaxe
 
 `DO` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
 `'` _bloco-instruções_<br />
@@ -18,55 +14,23 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 `'` _bloco-instruções_<br />
 `LOOP` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
 
-<sup>` 1.`[&uarr;](./resources/tree/main#sintaxe) **_condição_**]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
-<sup>` 2.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [*bloco-instruções*]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
-
-[AAA1](https://github.com/poitanotalk/resources/tree/main#ABCDEF)
-
-[AAA2](https://github.com/poitanotalk/resources/tree/main/#ABCDEF)
-
-[BBB1](https://github.com/poitanotalk/resources/tree/main#:~:text=ABCDEF-,test)
-
-[BBB2](https://github.com/poitanotalk/resources/tree/main/#:~:text=ABCDEF-,test)
-
-[ZZZ0](https://github.com/poitanotalk/resources/tree/main/#ABCDEF:~:text=test)
-
-
-[ZZZ1](#ABCDEF)
-
-[ZZZ2](/#ABCDEF)
-
-[ZZZ3](#:~:text=ABCDEF-,test)
-
-[ZZZ4](/#:~:text=ABCDEF-,test)
-
-[ZZZ5](/#ABCDEF:~:text=test)
-
-
-
+A parte _condição_ é uma expressão Boolean, enquanto que a parte _bloco-instruções_ é uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
 
 ## Exemplo
 
+' A cláusula While repete enquanto i for < 10:
+```basic
+Dim i = 0
+Do While i < 10 ' 
+    i = i + 1
+Loop
+```
+' A cláusula Until repete até i se torne > 10:
 ```basic
 Dim i = 0
 Do
     i = i + 1
-    If i > 10 Then Exit Do ' saiir quando i for 11.
-Loop
-```
-
-```basic
-Dim i = 0
-Do While i < 10 ' cláusula while no início.
-    i = i + 1
-Loop
-```
-
-```basic
-Dim i = 0
-Do
-    i = i + 1
-Loop Until i > 10 ' cláusula until no final.
+Loop Until i > 10 ' cláusula until
 ```
 
 ## Consulte também
