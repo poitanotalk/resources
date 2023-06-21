@@ -14,7 +14,7 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 &nbsp;&nbsp;&nbsp;&nbsp;_bloco-instruções_<br />
 `LOOP` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
 
-A parte da **_condição_** é uma expressão booleana { verdadeiro | falso }. Expressões numéricas **_enquanto i < 10_** ou **_até i > 10_** são avaliadas como objeto [True](), diferente de zero ou [False](), igual a zero.
+A parte da **_condição_** é uma expressão booleana { verdadeiro | falso }. Expressões numéricas **_enquanto i < 10_** ou **_até i > 10_** são avaliadas como [True](), diferente de zero ou [False](), igual a zero.
 
 ## Exemplo
 ```basic
