@@ -1,11 +1,11 @@
 
-# `DO`...`LOOP`
+# Instrução `DO`...`LOOP` (`Visual Basic`)
 
 Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
 
-> __`DO`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
-> &nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
-> __`LOOP`__<br />
+> **`DO`** [ { **`WHILE`** | **`UNTIL`** } *condição* ]<br />
+> &nbsp;&nbsp;&nbsp;&nbsp;[ *bloco-instruções* ]<br />
+> **`LOOP`**<br />
 
 > __`DO`__<br />
 > &nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
@@ -13,15 +13,26 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 ■ condition    Uma expressao numérica que o Basic avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
 
-Exemplo:
+Exemplos:
 
-```vba
-Dim i As System.Int32 = 0
-System.Console.WriteLine("Valor de i no início do loop‚ {0}", i)
-DO WHILE i < 10
-    i += 1
-LOOP
-System.Console.WriteLine("Valor de i no final do loop‚ {0}", i)
+```basic
+Dim i = 0
+Do
+    i = i + 1
+    If i > 10 Then Exit Do ' saiir quando i for 11.
+Loop
+```
+```basic
+Dim i = 0
+Do While i < 10 ' cláusula while.
+    i = i + 1
+Loop
+```
+```basic
+Dim i = 0
+Do
+    i = i + 1
+Loop Until i > 10 ' cláusula until.
 ```
 
 Consulte também  `EXIT`    `FOR...NEXT`    `WHILE...WEND`
