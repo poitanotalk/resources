@@ -34,6 +34,8 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [FFF](./#ABCDF)
 
+[AAA](https://github.com/poitanotalk/resources/blob/main#ABCDF)
+
 ## Exemplo
 
 ```basic
