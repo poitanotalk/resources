@@ -30,7 +30,7 @@ Do
 Loop Until i > 10 ' até i > 10
 ```
 
-## Consulte também
+## Consulte
 - [`Exit`]()
 - [`For`...`Next`]()
 - [`While`...`Wend`]()
