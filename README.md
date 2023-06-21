@@ -1,17 +1,38 @@
+## Artigo
 
-# Instrução `Do`...`Loop` (`Visual Basic`)
+By FabasaPro for Social<br /><sup>Publicado 19 Jun 2023 8h49 &#x22EE; Atualizado 19 Jun 2023 8h49</sup>
 
-Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
+## Instrução
+
+`DO...LOOP`
+
+Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.</sup>
 
 ## Sintaxe
 
-**`DO`** [ { **`WHILE`** | **`UNTIL`** } *condição* ]<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[ *bloco-instruções* ]<br />
-**`LOOP`**<br />
+`DO` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
+`'` _bloco-instruções_<br />
+`LOOP`<br />
 
-__`DO`__<br />
-&nbsp;&nbsp;&nbsp;&nbsp;[ _bloco-instruções_ ]<br />
-__`LOOP`__ [ { __`WHILE`__ | __`UNTIL`__ } _condição_ ]<br />
+`DO`<br />
+`'` _bloco-instruções_<br />
+`LOOP` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
+
+<sup>` 1.`[&uarr;](./resources/tree/main#sintaxe) **_condição_**]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
+<sup>` 2.`[&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) [*bloco-instruções*]() Uma expressao numérica que o `Visual Basic` avalia como sendo verdadeira (diferente de zero) ou falsa (zero). </sup><br />
+
+
+[AAA](https://github.com/poitanotalk/resources/tree/main#a)
+
+[BBB](./poitanotalk/resources/tree/main#a)
+
+[CCC](./resources/tree/main#a)
+
+[DDD](./tree/main#a)
+
+[EEE](./main#a)
+
+[FFF](./#a)
 
 ## Exemplo
 
@@ -37,14 +58,16 @@ Do
 Loop Until i > 10 ' cláusula until no final.
 ```
 
-> ![tip](https://github.com/poitanotalk/resources/blob/main/svg/tools/lightbulb.svg) __Dica__<br />
-> *condition*
-> Uma expressao numérica que o Basic avalia como sendo verdadeira (diferente de zero) ou falsa (zero).
+## Consulte também
+- [`Exit`]()
+- [`For...Next`]()
+- [`While...Wend`]()
 
-Consulte também&nbsp;&nbsp;&nbsp;&nbsp;[`Exit`]()&nbsp;&nbsp;&nbsp;&nbsp;[`For...Next`]()&nbsp;&nbsp;&nbsp;&nbsp;[`While...Wend`]()
+---
 
+[`Artigos`]() ⋮ [`Posts`]() ⋮ [`Projetos`]() ⋮ [`Samples`]() ⋮ [`Contribuir`](https://github.com/fabasapro/wikilinks/pulls) ⋮ [`Termos de Uso`](LICENSE)
 
-
+<sup><b>Copyright © 1996 - 2023 @FabasaPro for Social. All rights reserved.</b></sup>
 
 
 
@@ -283,7 +306,7 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 
 [^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
 
-
+# A B C D
 
 
 
