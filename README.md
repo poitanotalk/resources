@@ -30,7 +30,10 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [DDD](https://github.com/poitanotalk/resources/tree/main#:~:text=ideia%20do%20Wiki-,ABCDF,-test)
 
-[EEE](./#:~:text=ideia%20do%20Wiki-,ABCDF,-test)
+[EEE](./#:~:text=for%20the%20Wiki%3F%C2%BB%20(-,em%20ingl%C3%AAs,-).%20Uma%20entrevista%20em)
+
+
+[es](./#:~:text=ABCDF-,test,-Footnotes)
 
 ## Exemplo
 
@@ -302,11 +305,13 @@ No ambiente da Educação Corporativa, diversas organizações estão utilizando
 ## Ligações externas
 <sup>` – ` «How did you come up with the idea for the Wiki?» (em inglês). Uma entrevista em vídeo com Ward Cunningham sobre como ele teve a ideia do Wiki</sup><br />
 
-[^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
-
 # ABCDF
 
 test
+
+[^1]: [&uarr;](https://github.com/poitanotalk/resources/tree/main#wiki) A pronúncia do fonema havaiano /w/ varia entre [w] e [v], e a pronúncia do fonema /k/ varia entre [k] e [t], entre outras. Assim, a pronúncia da palavra havaiana wiki varia entre ['wiki'], ['witi'], ['viki'], e ['viti'].
+
+
 
 
 
