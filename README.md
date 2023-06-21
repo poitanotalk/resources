@@ -25,9 +25,10 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [BBB](https://github.com/poitanotalk/resources/tree/main#:~:text=ABCDF-,test)
 
-[CCC](/#ABCDF)
+[CCC](#ABCDF)
 
-[DDD](/#:~:text=ABCDF-,test)
+[DDD](#ABCDF:~:text=test)
+
 
 
 
