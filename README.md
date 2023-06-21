@@ -18,18 +18,16 @@ A parte _condição_ é uma expressão Boolean, enquanto que a parte _bloco-inst
 
 ## Exemplo
 ```basic
-' Enquanto i é < 10:
 Dim i = 0
-Do While i < 10 
+Do While i < 10 ' enquanto i < 10
     i = i + 1
 Loop
 ```
 ```basic
-' Até i se torne > 10:
 Dim i = 0
 Do
     i = i + 1
-Loop Until i > 10
+Loop Until i > 10 ' até i > 10
 ```
 
 ## Consulte também
