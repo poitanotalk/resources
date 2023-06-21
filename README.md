@@ -23,13 +23,24 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 
 [AAA1](https://github.com/poitanotalk/resources/tree/main#ABCDEF)
 
-[BBB1](https://github.com/poitanotalk/resources/tree/main#:~:text=ABCDEF-,test)
-
 [AAA2](https://github.com/poitanotalk/resources/tree/main/#ABCDEF)
+
+[BBB1](https://github.com/poitanotalk/resources/tree/main#:~:text=ABCDEF-,test)
 
 [BBB2](https://github.com/poitanotalk/resources/tree/main/#:~:text=ABCDEF-,test)
 
+[ZZZ0](https://github.com/poitanotalk/resources/tree/main/#ABCDEF:~:text=test)
 
+
+[ZZZ1](#ABCDEF)
+
+[ZZZ2](/#ABCDEF)
+
+[ZZZ3](#:~:text=ABCDEF-,test)
+
+[ZZZ4](/#:~:text=ABCDEF-,test)
+
+[ZZZ5](/#ABCDEF:~:text=test)
 
 
 
