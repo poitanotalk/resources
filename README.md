@@ -4,7 +4,7 @@ By FabasaPro for Social<br /><sup>Publicado 19 Jun 2023 8h49 &#x22EE; Atualizado
 
 ## Instrução
 
-`DO...LOOP`
+`DO`...`LOOP`
 
 Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.</sup>
 
