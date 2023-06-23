@@ -7,7 +7,7 @@
 [DDDDDDD](#Artigo)<br>
 
 
-
+<a href="./#Artigo:~:text=By-,FabasaPro,-for%20Social" onClick="javascript:window.open('#Artigo')">Twitter e Facebook</a>
 
 
 
