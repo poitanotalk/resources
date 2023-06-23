@@ -1,4 +1,13 @@
 <p><a href="https://github.com/FabasaPro/wikis/blogs/tree/main" aria-label="Blogs" title="Artigos e Postagens de publicações">Blogues</a> &#x22EE; <a href="https://github.com/FabasaPro/wikis/tutorials/tree/main" aria-label="Tutorials" title="Samples e Soluções de projetos">Tutoriais</a> &#x22EE; <a href="https://github.com/FabasaPro/wikis/pulls" aria-label="Pulls" title="Contribua por Pull Requests">Contribuir</a> &#x22EE; <a href="LICENSE" aria-label="License" title="Serviços e Políticas de privacidade">Termos de Uso</a><br><sup><strong>Copyright © 1996 – 2023 Developer & Design, por Fábio Santos. Todos os direitos reservados.</strong></sup></p>
+<p><strong>Por FabasaPro for social</strong><br><sup>Publicado 21 jul 2023 03h20</sup></p>
+<p><strong>Por FabasaPro for social</strong><br><sup>Criado 21 jul 2023 03h20</sup></p>
+<p><strong>Por FabasaPro for social</strong><br><sup>Publicado 21 jul 2023 03h20 &#x000B7 Atualizado 21 jul 2023 03h20</sup></p>
+<p><strong>Por FabasaPro for social</strong><br><sup>Criado 21 jul 2023 03h20 &#x000B7 Atualizado 21 jul 2023 03h20</sup></p>
+
+
+
+
+
 
 <p><a href="https://github.com/FabasaPro/wikis/blogs/tree/main" aria-label="Directory" data-anchorjs-icon="📁" title="Artigos e Postagens de publicações"><svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><span>Blogs</span></a></p>
 
