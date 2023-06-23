@@ -1,16 +1,9 @@
 
 
 
-[AAAAAAA](./#:~:text=By-,FabasaPro,-for%20Social#Artigo)<br>
-[BBBBBBB](./#Artigo:~:text=By-,FabasaPro,-for%20Social)<br>
-[CCCCCCC](#:~:text=By-,FabasaPro,-for%20Social)<br>
-[DDDDDDD](#Artigo)<br>
-
-
-<a href="./#Artigo:~:text=By-,FabasaPro,-for%20Social" onClick="javascript:window.open('./#Artigo:~:text=By-,FabasaPro,-for%20Social')">Twitter e Facebook</a>
-
-<a href="#" onClick="javascript:window.open('./#Artigo:~:text=By-,FabasaPro,-for%20Social')">Twitter e Facebook</a>
-
+[AAAAAAA](./#Artigo:~:text=By-,FabasaPro,-for%20Social)<br>
+[BBBBBBB](#Artigo)<br>
+[CCCCCCC](./#Artigo:~:text=By-,FabasaPro,-for%20Social#Artigo)<br>
 
 
 
