@@ -1,7 +1,8 @@
 <p><a href="https://github.com/FabasaPro/wikis/blogs/tree/main" aria-label="Blogs" title="Artigos e Postagens de publicações">Blogues</a> &#x22EE; <a href="https://github.com/FabasaPro/wikis/tutorials/tree/main" aria-label="Tutorials" title="Samples e Soluções de projetos">Tutoriais</a> &#x22EE; <a href="https://github.com/FabasaPro/wikis/pulls" aria-label="Pulls" title="Contribua por Pull Requests">Contribuir</a> &#x22EE; <a href="LICENSE" aria-label="License" title="Serviços e Políticas de privacidade">Termos de Uso</a><br><sup><strong>Copyright © 1996 – 2023 Developer & Design, por Fábio Santos. Todos os direitos reservados.</strong></sup></p>
 
 <p><strong>Artigo</strong><br>Por FabasaPro for social<br><sup>Publicado 21 jul 2023 03h20</sup></p>
-<p><strong>Amostra</strong><br>Por FabasaPro for social<br><sup>Criado 21 jul 2023 03h20</sup></p>
+<p><strong>Postagem</strong><br>Por FabasaPro for social<br><sup>Publicado 21 jul 2023 03h20</sup></p>
+<p><strong>Sample</strong><br>Por FabasaPro for social<br><sup>Criado 21 jul 2023 03h20</sup></p>
 <p><strong>Projeto</strong><br>Por FabasaPro for social<br><sup>Publicado 21 jul 2023 03h20 &#x000B7 Atualizado 21 jul 2023 03h20</sup></p>
 
 
