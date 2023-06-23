@@ -1,3 +1,34 @@
+<p><sub>Artigo</sub><br><strong>Criando uma visualização de código melhor e mais rápida</strong><br><sup>O novo GitHub Code View traz aos usuários muitos novos recursos para melhorar as experiências de leitura e exploração de código, e superamos vários obstáculos técnicos exclusivos para fornecer esses recursos sem comprometer o desempenho.</sup></p>
+
+<p><img aria-label="Profile" title="" src="https://avatars.githubusercontent.com/u/137560489?u=7f7818d3a0f04cb8bd1e4f6da0603d4a9c475182&amp;v=4" alt="@fabasapro" width="40" height="40">
+<strong>Por <a aria-label="Overview" href="https://github.com/fabasapro" title="Clique e 'follow'">@FabasapPro</a> for social</strong><br><sup>Publicado 21 jul 2023 03h20 &#x02022; Atualizado 21 jul 2023 03h20</sup></p>
+
+<p><svg aria-label="Overview" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
+</svg>&nbsp;<a aria-label="Overview" href="https://github.com/fabasapro" title="Visão geral">Principal</a>&nbsp;&#x22EE;&nbsp;<svg aria-label="Repositories" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>&nbsp;<a aria-label="Repositories" href="https://github.com/fabasapro?tab=repositories" title="Repositórios">Repositórios</a>&nbsp;&#x22EE;&nbsp;<svg aria-label="Projects" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg>&nbsp;<a aria-label="Projects" href="https://github.com/fabasapro?tab=projects" title="Projects">Projetos</a>&nbsp;&#x22EE;&nbsp;<svg aria-label="Packages" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
+</svg><a aria-label="Packages" href="https://github.com/fabasapro?tab=packages" title="Pacotes">Pacotes</a>&nbsp;&#x22EE;&nbsp;<svg aria-label="Stars" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>&nbsp;<a aria-label="Stars" href="https://github.com/fabasapro?tab=stars" title="Estrelas">Estrelas</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p><a href="https://github.com/FabasaPro/wikis/blogs/tree/main" aria-label="Blogs" title="Artigos e Postagens de publicações">Blogues</a> &#x22EE; <a href="https://github.com/FabasaPro/wikis/tutorials/tree/main" aria-label="Tutorials" title="Samples e Soluções de projetos">Tutoriais</a> &#x22EE; <a href="https://github.com/FabasaPro/wikis/pulls" aria-label="Pulls" title="Contribua por Pull Requests">Contribuir</a> &#x22EE; <a href="LICENSE" aria-label="License" title="Serviços e Políticas de privacidade">Termos de Uso</a><br><sup><strong>Copyright © 1996 – 2023 Developer & Design, por Fábio Santos. Todos os direitos reservados.</strong></sup></p>
 
 <p><strong>Artigo</strong><br>Por FabasaPro for social<br><sup>Publicado 21 jul 2023 03h20 &#x02022; Atualizado 21 jul 2023 03h20</sup>
