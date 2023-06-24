@@ -1,3 +1,24 @@
+
+<code>
+┌────────┐ ┌───────┐
+│ início ├─┤ i = 0 ├─┐
+└────────┘ └───────┘ ↓
+        ┌────────────┤
+        ↑ verdadeiro │ falso
+  ┌─────┴─────┐  ┌───┴───┐
+  │ i = i + 1 ├──┤ i < 6 ├─┐
+  └───────────┘  └───────┘ ↓
+                        ┌──┴──┐
+                        │ fim │
+                        └─────┘
+</code>
+
+
+
+
+
+
+
 <p><sub>Artigo</sub><br><strong>Criando uma visualização de código melhor e mais rápida</strong><br><sup>O novo GitHub Code View traz aos usuários muitos novos recursos para melhorar as experiências de leitura e exploração de código, e superamos vários obstáculos técnicos exclusivos para fornecer esses recursos sem comprometer o desempenho.</sup></p>
 
 <p><img aria-label="Profile" title="" src="https://avatars.githubusercontent.com/u/137560489?u=7f7818d3a0f04cb8bd1e4f6da0603d4a9c475182&amp;v=4" alt="@fabasapro" width="40" height="40">
