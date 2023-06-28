@@ -20,7 +20,7 @@ Bem-vindo!
 
 ### Parâmetros
 
-_access_ [opcional]
+#### _access_ [opcional]
 
    + **`Public`** A palavra-chave `Público` na instrução de declaração especifica que o elemento pode ser acessado a partir do código em qualquer lugar do mesmo projeto, em outros projetos que referenciam o projeto e em qualquer assembly criado a partir do projeto.
    + **`Protected`** A palavra-chave `Protected` na instrução de declaração especifica que o elemento só pode ser acessado de dentro da mesma classe ou de uma classe derivada dessa classe.
@@ -29,7 +29,7 @@ _access_ [opcional]
    + **`Protected Friend`** A combinação de palavras-chave `Protected Friend` na instrução de declaração especifica que o elemento pode ser acessado nas classes derivadas, no mesmo assembly ou em ambos.
    + **`Private Protected`** A combinação de palavras-chave `Private Protected` na instrução de declaração especifica que o elemento só pode ser acessado na mesma classe, bem como nas classes derivadas encontradas no mesmo assembly que a classe relativa.
 
-_`type`_
+#### _`type`_
 
 + **`object`** 32-bits ou 64-bits sendo possível armazenar qualquer tipo em uma variável do tipo Object.
 + **`bool`** 1-bit  (2^1), com sinal (0) [ true | false ], depende da implementação da plataforma.
@@ -50,11 +50,11 @@ _`type`_
 
 > Nota: sempre use o sufixo literal forçado L/UL ou l/ul para diferenciar o tipo long e ulong do padrão int, use F ou f para diferenciar o tipo float do padrão double racional. Também podemos usar o prefixo literal @ (verbatim) para ignorar comandos de string ou $ (interpolar) para aceitar e converter  comandos {variáveis} e \x0041 em string.
 
-_name_
+#### _name_
 
 + Um nome válido para descrever procedimentos, tipos de dados ou objetos.
 
-_value_
+#### _value_
 
 + Um valor de atribuição para dados char 'a', string "a", números 123 ou até mesmo objeto.
 
@@ -115,3 +115,8 @@ namespace variable_type
     }
 }
 ```
+
+## Captura de tela
+
+![variable-type-sample]()
+
