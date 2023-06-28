@@ -47,8 +47,6 @@ _`type`_
 + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal**
    + _Sufixo literal M ou m para distinguir-se dos anteriores._
 + **`string`** 2 bilhões de caracteres Unicode
-   + _
-   + _Prefixo literal 
 
 > Nota: sempre use o sufixo literal forçado L/UL ou l/ul para diferenciar o tipo long e ulong do padrão int, use F ou f para diferenciar o tipo float do padrão double racional. Também podemos usar o prefixo literal @ (verbatim) para ignorar comandos de string ou $ (interpolar) para aceitar e converter  comandos {variáveis} e \x0041 em string.
 
@@ -64,4 +62,6 @@ _value_
 
 var SignedByte = (sbyte)42;<br>
 uint UnsignedInt = (uint)SignedByte;
+
+## Exemplo
 
