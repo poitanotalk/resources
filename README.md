@@ -34,9 +34,9 @@ Bem-vindo!
    + **`byte`** 8-bits (2^8)-1, sem sinal (0 a 255)
    + **`char`** 16-bits (2^16)-1, sem sinal (0 a 65535)
    + **`short`** 16-bits ((2^16)/2)-1, com sinal (-32768 a 32767 ), **System.Int16**
-   + **`ushort`** 16-bits (2^16)-1, sem sinal (0 a 65535) Mesmo que System.UInt16 ou WORD
-   + **`int`** 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) Mesmo que System.Int32
-   + **`uint`** 32-bits (2^32)-1, sem sinal (0 a 4294967295) Mesmo que System.UInt32
+   + **`ushort`** 16-bits (2^16)-1, sem sinal (0 a 65535) **System.UInt16**, **`WORD`**
+   + **`int`** 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) **System.Int32**
+   + **`uint`** 32-bits (2^32)-1, sem sinal (0 a 4294967295) **System.UInt32**, **`DWORD`**
    + **`long`** 64-bits ((2^64)/2)-1, com sinal (-9223372036854775808L a 9223372036854775807L) Mesmo que System.Int64
    + **`ulong`** 64-bits (2^64)-1, sem sinal (0L a 18446744073709551615L) Mesmo que System.UInt64 ou DWORD
    + **`float`** 32-bits, em float, 1.0E+3F = 1.0 * 1000 = 1000.0F ou 1.0E-3F = 1.0 / 1000 = 0,001F
