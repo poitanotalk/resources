@@ -4,6 +4,12 @@
 
 Geralmente, _variável_, ou _`var`_ em _C#_ (_Visual C-Sharp_), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento. Aqui, neste repositório, veremos apenas uma apresentação passo a passo de todas, ou melhor, das principais mais utilizadas para iniciar uma programação.
 
+É um imenso prazer:
+
+Meu nome é Fábio Santos, e este é meu primeiro contato com a linguagem de programação C# (Visual C-Sharp). Nasci em meados dos anos 80 e tenho um conhecimento rápido de QBasic (Microsoft QuickBASIC) e Assembly para processadores 80x86 e um conhecimento mais profundo de Visual Basic .NET Framework.
+
+Bem-vindo!
+
 ## Sintaxe
 
 &nbsp;&nbsp;&nbsp;&nbsp;[ _access_ ( **`VAR` | _type_** ) _name_ = { _value_ } ]
