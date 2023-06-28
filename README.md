@@ -31,7 +31,6 @@ Bem-vindo!
 
 #### _`type`_
 
-+ **`object`** 32-bits ou 64-bits sendo possível armazenar qualquer tipo em uma variável do tipo Object.
 + **`bool`** 1-bit  (2^1), com sinal (0) [ true | false ], depende da implementação da plataforma.
 + **`sbyte`** 8-bits ((2^8)/2)-1, com sinal (-128 a 127).
 + **`byte`** 8-bits (2^8)-1, sem sinal (0 a 255).
@@ -46,6 +45,7 @@ Bem-vindo!
 + **`double`** 64-bits, DoubleFLOAT, -2.2250738585072014E-308 a 1.7976931348623158E+308 **System.Double**.
 + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal**.
 + **`string`** 2 bilhões de caracteres Unicode.
++ **`object`** 32-bits ou 64-bits sendo possível armazenar qualquer tipo em uma variável do tipo Object.
 
 > Nota: sempre use o sufixo literal forçado L/UL ou l/ul para diferenciar o tipo long e ulong do padrão int, use F ou f para diferenciar o tipo float do padrão double racional, use M ou m para distinguir decimal de todos os outros valores numéricos. Também podemos usar o prefixo literal @ (verbatim) para ignorar comandos de string ou $ (interpolar) para aceitar e converter  comandos {variáveis} e \x0041 em string.
 
