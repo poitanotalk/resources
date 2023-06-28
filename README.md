@@ -62,5 +62,6 @@ _value_
 
 ## Literais e conversões
 
-var SignedByte = (sbyte)42;
-var LongVariable = (long)42;
+var SignedByte = (sbyte)42;<br>
+uint UnsignedInt = (uint)SignedByte;
+
