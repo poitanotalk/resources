@@ -42,7 +42,7 @@ Bem-vindo!
    + **`float`** 32-bits, FLOAT, -1.175494351E-38F a 3.402823466E+38F **System.Single** F ou f para diferir do valor do padrão racional **`double`**
    + **`[double]`** 64-bits, DoubleFLOAT, -2.2250738585072014E-308 a 1.7976931348623158E+308 **System.Double**
    + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal** M ou m para distinguir-se dos valores anteriores
-   + **`string`** 2 bilhões de caracteres Unicode, use @ (verbatim) ignorar comandos, apenas string ou $ (interpolate) converter {variáveis} e comandos \x0041 em string
+   + **`string`** 2 bilhões de caracteres Unicode, prefixo literal @ (verbatim) ignorar comandos, apenas string ou $ (interpolate) converter {variáveis} e comandos \x0041 em string
 
          
 
