@@ -66,4 +66,52 @@ var SignedByte = (sbyte)42;<br>
 uint UnsignedInt = (uint)SignedByte;
 
 ## Exemplo
-
+```cs
+using System;
+namespace variable_type
+{
+    public partial class VariableType : System.Windows.Forms.Form
+    {
+        public VariableType()
+        {
+            InitializeComponent();
+        }
+        private void button1_Click(object sender, System.EventArgs e)
+        {
+            // statements //////////////////////////////////////////////////////////////
+            var Int_EmployeeID = 1;
+            var Str_LastName = "Hejlsberg";
+            var Str_FirstName = "Anders";
+            var Chr_Gender = 'M';
+            var Date_BirthDate = System.DateTime.Parse("2/12/1960", new System.Globalization.CultureInfo("pt-BR"));
+            var Int_Age = System.DateTime.Now.Year - Date_BirthDate.Year; // metadados
+            var Sng_Salary = 92400.55F;
+            var Str_CurrencyType = string.Format(new System.Globalization.CultureInfo("pt-BR"), "{0:C}", Sng_Salary); // metadados
+            var Bool_Deleted = false;
+            var Bool_Enabled = true;
+            var Str_Notes = "Anders Hejlsberg é um engenheiro de software dinamarquês que ganhou prestígio pelo desenvolvimento do Delphi e Turbo Pascal na Borland e a plataforma .NET após ter migrado para a Microsoft. Projetista Chefe da linguagem C#.";
+            var Obj_Photo = new System.Drawing.Bitmap("./res/empid1.png", true);
+            // fields //////////////////////////////////////////////////////////////////
+            this.textBox1.Text = $"{Int_EmployeeID}";
+            this.textBox2.Text = Str_LastName;
+            this.textBox3.Text = Str_FirstName;
+            this.textBox4.Text = $"{Chr_Gender}";
+            this.textBox5.Text = $"{Date_BirthDate.Day}/{Date_BirthDate.Month}/{Date_BirthDate.Year}";
+            this.textBox6.Text = $"{Int_Age}";
+            this.textBox7.Text = $"{Str_CurrencyType}";
+            this.checkBox1.Checked = Bool_Deleted;
+            this.checkBox2.Checked = Bool_Enabled;
+            // notes ///////////////////////////////////////////////////////////////////
+            this.textBox8.Multiline = true;
+            this.textBox8.Size = new System.Drawing.Size(383, 64);
+            this.textBox8.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.textBox8.WordWrap = true;
+            this.textBox8.Text = Str_Notes;
+            // photo ///////////////////////////////////////////////////////////////////
+            this.pictureBox1.BackColor = System.Drawing.ColorTranslator.FromHtml("#000000");
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.Image = Obj_Photo;
+        }
+    }
+}
+```
