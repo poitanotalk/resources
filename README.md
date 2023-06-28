@@ -1,6 +1,4 @@
-# Referência da linguagem
-
-## Variáveis em C# (Visual C-Sharp)
+# Variáveis
 
 Geralmente, _variável_, ou _var_ em C# (Visual C-Sharp), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento.
 
