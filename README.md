@@ -6,7 +6,7 @@ Geralmente, _variável_, ou _var_ em C# (Visual C-Sharp), é o nome usado para d
 
 ## Sobre o repositório
 
-Aqui, neste repositório, veremos um passo a passo das _mais usadas_ para poder começar a programar.
+Aqui, neste repositório, veremos um passo a passo das variáveis mais utilizadas para poder começar a programar.
 
 É um imenso prazer:
 
