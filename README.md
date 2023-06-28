@@ -63,7 +63,7 @@ var SignedByte = (sbyte)42;<br>
 uint UnsignedInt = (uint)SignedByte;
 
 ## Exemplo
-```cs
+```csharp
 using System;
 namespace variable_type
 {
