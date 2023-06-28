@@ -37,12 +37,12 @@ Bem-vindo!
    + **`ushort`** 16-bits (2^16)-1, sem sinal (0 a 65535) **System.UInt16**, **`WORD`**
    + **`[int]`** 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) **System.Int32**
    + **`uint`** 32-bits (2^32)-1, sem sinal (0 a 4294967295) **System.UInt32**, DoubleWORD (**`DWORD`**)
-   + **`long`** 64-bits ((2^64)/2)-1, com sinal (-9223372036854775808L a 9223372036854775807L) **System.Int64**<br>Literal de coerção: **L** ou **l** para diferir do padrão **`int`**
+   + **`long`** 64-bits ((2^64)/2)-1, com sinal (-9223372036854775808L a 9223372036854775807L) **System.Int64**<br>**L** ou **l** para diferir do padrão **`int`**
    + **`ulong`** 64-bits (2^64)-1, sem sinal (0L a 18446744073709551615L) **System.UInt64** literal L ou l para diferir do padrão `int`
-   + **`float`** 32-bits, FLOAT, -1.175494351E-38F a 3.402823466E+38F **System.Single**<br>Literal de coerção: **F** ou **f** para diferir do valor do padrão racional **`double`**
+   + **`float`** 32-bits, FLOAT, -1.175494351E-38F a 3.402823466E+38F **System.Single**<br>**F** ou **f** para diferir do valor do padrão racional **`double`**
    + **`[double]`** 64-bits, DoubleFLOAT, -2.2250738585072014E-308 a 1.7976931348623158E+308 **System.Double**
-   + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal**<br>Literal de coerção: **M** ou **m** para distinguir-se dos valores anteriores
-   + **`string`** 2 bilhões de caracteres Unicode<br>Literais de coerção:<br>@ (verbatim) ignorar comandos, apenas string.<br>$ (interpolate) converter {variáveis} e comandos \x0041 em string
+   + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal**<br>**M** ou **m** para distinguir-se dos valores anteriores
+   + **`string`** 2 bilhões de caracteres Unicode<br>@ (verbatim) ignorar comandos, apenas string<br>$ (interpolate) converter {variáveis} e comandos \x0041 em string
 
          
 
