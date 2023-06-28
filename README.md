@@ -2,15 +2,15 @@
 
 ## Variáveis em C# (Visual C-Sharp)
 
-Geralmente, _variável_, ou _`var`_ em _C#_ (_Visual C-Sharp_), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento.
+Geralmente, _variável_, ou _var_ em C# (Visual C-Sharp), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento.
 
 ## Sobre o repositório
 
-Aqui, neste repositório, veremos um passo a passo das mais usadas para poder começar a programar.
+Aqui, neste repositório, veremos um passo a passo das _mais usadas_ para poder começar a programar.
 
 É um imenso prazer:
 
-Me chamo Fábio Santos, e este é meu primeiro contato com a linguagem de programação `C#` (`Visual C-Sharp`). Nasci em meados dos anos 80 e tenho um conhecimento rápido de `QBasic` (`Microsoft QuickBASIC`) e `Assembly` para processadores 80x86 e um conhecimento mais profundo de `Visual Basic .NET`.
+Me chamo Fábio Santos, e este é meu _primeiro contato_ com a linguagem de programação C# (Visual C-Sharp). Nasci em meados dos anos 80 e tenho um conhecimento rápido de QBasic (Microsoft QuickBASIC) e Assembly para processadores 80x86 e um conhecimento _mais profundo_ em Visual Basic.
 
 Bem-vindo!
 
@@ -20,9 +20,8 @@ Bem-vindo!
 
 ### Parâmetros
 
-&nbsp;&nbsp;&nbsp;&nbsp;`access`:
-
-    § `Public`               A palavra-chave `Público` na instrução de declaração especifica que o elemento pode ser acessado a partir do código em qualquer lugar do mesmo projeto, em outros projetos que referenciam o projeto e em qualquer assembly criado a partir do projeto.
++ _access_<br>Opcional. Um dos seguintes pode ser feito:
+   + `Public`               A palavra-chave `Público` na instrução de declaração especifica que o elemento pode ser acessado a partir do código em qualquer lugar do mesmo projeto, em outros projetos que referenciam o projeto e em qualquer assembly criado a partir do projeto.
     § `Protected`            A palavra-chave `Protected` na instrução de declaração especifica que o elemento só pode ser acessado de dentro da mesma classe ou de uma classe derivada dessa classe. 
     § `Friend`               A palavra-chave `Friend` na instrução de declaração especifica que o elemento pode ser acessado no mesmo assembly, mas não de fora do assembly. 
     § `Private`              A palavra-chave `Private` na instrução de declaração especifica que o elemento só pode ser acessado no mesmo módulo, classe ou estrutura. 
