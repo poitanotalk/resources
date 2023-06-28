@@ -118,5 +118,9 @@ namespace variable_type
 
 ## Captura de tela
 
-![variable-type-sample]()
+![variable-type-sample](https://github.com/fabasapro/variable-type/blob/main/screenshot/variable-type.png)
 
+## Go
+
+[verbatim](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/tokens/verbatim)
+[interpolated](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/tokens/interpolated)
