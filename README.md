@@ -20,19 +20,19 @@ Bem-vindo!
 
 ### Parâmetros
 
-+ _access_<br>Opcional. Um dos seguintes pode ser feito:<br>
++ _access_ [opcional]
    + **`Public`** A palavra-chave `Público` na instrução de declaração especifica que o elemento pode ser acessado a partir do código em qualquer lugar do mesmo projeto, em outros projetos que referenciam o projeto e em qualquer assembly criado a partir do projeto.
    + **`Protected`** A palavra-chave `Protected` na instrução de declaração especifica que o elemento só pode ser acessado de dentro da mesma classe ou de uma classe derivada dessa classe.
    + **`Friend`** A palavra-chave `Friend` na instrução de declaração especifica que o elemento pode ser acessado no mesmo assembly, mas não de fora do assembly.
    + **`Private`** A palavra-chave `Private` na instrução de declaração especifica que o elemento só pode ser acessado no mesmo módulo, classe ou estrutura.
    + **`Protected Friend`** A combinação de palavras-chave `Protected Friend` na instrução de declaração especifica que o elemento pode ser acessado nas classes derivadas, no mesmo assembly ou em ambos.
    + **`Private Protected`** A combinação de palavras-chave `Private Protected` na instrução de declaração especifica que o elemento só pode ser acessado na mesma classe, bem como nas classes derivadas encontradas no mesmo assembly que a classe relativa.
-+ _`type`_<br>Usar, em vez de 'VAR', o tipo de dados:<br>
++ _`type`_<br>Usar, em vez de 'VAR', o tipo de dados:
    + **`object`** 32-bits ou 64-bits sendo possível armazenar qualquer tipo em uma variável do tipo Object
    + **`bool`** 1-bit  (2^1), com sinal (0) [ true | false ], depende da implementação da plataforma
    + **`sbyte`** 8-bits ((2^8)/2)-1, com sinal (-128 a 127) 
    + **`byte`** 8-bits (2^8)-1, sem sinal (0 a 255)
-   + **`char`** 16-bits (2^16)-1, sem sinal (0 a 65535)
+   + **`char`** 16-bits (2^16)-1, sem sinal (0 a 65535) sintaxe 'A' e não "A"
    + **`short`** 16-bits ((2^16)/2)-1, com sinal (-32768 a 32767 ), **System.Int16**
    + **`ushort`** 16-bits (2^16)-1, sem sinal (0 a 65535) **System.UInt16**, **`WORD`**
    + **`[int]`** 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) **System.Int32**
