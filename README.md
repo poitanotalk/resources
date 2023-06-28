@@ -1,8 +1,12 @@
-# Referência da linguagem C# (Visual C-Sharp)
+# Referência da linguagem
+
+## Variáveis em C# (Visual C-Sharp)
+
+Geralmente, _variável_, ou _`var`_ em _C#_ (_Visual C-Sharp_), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento.
 
 ## Sobre o repositório
 
-Geralmente, _variável_, ou _`var`_ em _C#_ (_Visual C-Sharp_), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento. Aqui, neste repositório, veremos apenas uma apresentação passo a passo de todas, ou melhor, das principais mais utilizadas para iniciar uma programação.
+Aqui, neste repositório, veremos um passo a passo das mais usadas para poder começar a programar.
 
 É um imenso prazer:
 
@@ -14,7 +18,9 @@ Bem-vindo!
 
 &nbsp;&nbsp;&nbsp;&nbsp;[ _access_ ( **`VAR` | _type_** ) _name_ = { _value_ } ]
 
-Parâmetro `access`:
+### Parâmetros
+
+&nbsp;&nbsp;&nbsp;&nbsp;`access`:
 
     § `Public`               A palavra-chave `Público` na instrução de declaração especifica que o elemento pode ser acessado a partir do código em qualquer lugar do mesmo projeto, em outros projetos que referenciam o projeto e em qualquer assembly criado a partir do projeto.
     § `Protected`            A palavra-chave `Protected` na instrução de declaração especifica que o elemento só pode ser acessado de dentro da mesma classe ou de uma classe derivada dessa classe. 
