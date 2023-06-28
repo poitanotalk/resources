@@ -60,7 +60,7 @@ _value_
 
 ## Literais e conversões
 
-> Dica: podemos converter valores, desde que tenham possibilidade de conversão. Não podemos converter um "rato" em "elefante"! As possíveis conversões são _numéricas_ em tipos de números, _não numéricas_ em tipos de textos e também _classes_, _ferramentas_ em tipos de objetos.
+> Dica: podemos converter valores, desde que tenham possibilidade de conversão. Não podemos converter um "rato" em "elefante"! As possíveis conversões são _numéricas_ em tipos de números, _não numéricas_ em tipos de textos e também _classes_, _(diversas)_ em tipos de objetos.
 
 var SignedByte = (sbyte)42;<br>
 uint UnsignedInt = (uint)SignedByte;
