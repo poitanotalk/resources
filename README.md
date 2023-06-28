@@ -35,14 +35,22 @@ Bem-vindo!
    + **`char`** 16-bits (2^16)-1, sem sinal (0 a 65535)
    + **`short`** 16-bits ((2^16)/2)-1, com sinal (-32768 a 32767 ), **System.Int16**
    + **`ushort`** 16-bits (2^16)-1, sem sinal (0 a 65535) **System.UInt16**, **`WORD`**
-   + **`int`** 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) **System.Int32**
-   + **`uint`** 32-bits (2^32)-1, sem sinal (0 a 4294967295) **System.UInt32**, **`DWORD`**
-   + **`long`** 64-bits ((2^64)/2)-1, com sinal (-9223372036854775808L a 9223372036854775807L) Mesmo que System.Int64
-   + **`ulong`** 64-bits (2^64)-1, sem sinal (0L a 18446744073709551615L) Mesmo que System.UInt64 ou DWORD
-   + **`float`** 32-bits, em float, 1.0E+3F = 1.0 * 1000 = 1000.0F ou 1.0E-3F = 1.0 / 1000 = 0,001F
-   + **`double`** 64-bits, em float, 1.0E+3 = 1.0 * 1000 = 1000.0 ou 1.0E-3 = 1.0 / 1000 = 0,001
+   + **`[int]`** 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) **System.Int32**
+   + **`uint`** 32-bits (2^32)-1, sem sinal (0 a 4294967295) **System.UInt32**, DoubleWORD (**`DWORD`**)
+   + **`long`** 64-bits ((2^64)/2)-1, com sinal (-9223372036854775808L a 9223372036854775807L) **System.Int64**
+      + L ou l para diferir do padrão `int`
+   + **`ulong`** 64-bits (2^64)-1, sem sinal (0L a 18446744073709551615L) **System.UInt64**
+      + L ou l para diferir do padrão `int`
+   + **`float`** 32-bits, FLOAT, -1.175494351E-38F a 3.402823466E+38F **System.Single**
+      + F ou f para diferir do valor do padrão racional `double`
+   + **`[double]`** 64-bits, DoubleFLOAT, -2.2250738585072014E-308 a 1.7976931348623158E+308 **System.Double**
    + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M)
    + **`string`** 2 bilhões de caracteres Unicode
+      + Literais e coerção de tipo:
+         + L ou l (long) para diferir do padrão int
+         + F ou f (fluat) para diferir do valor do padrão racional 'double'
+         
+
 
 
   Parâmetro `name`:
