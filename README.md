@@ -1,3 +1,77 @@
+# Referência da linguagem C# (Visual C-Sharp)
+
+## Sobre o repositório
+
+Geralmente, _variável_, ou _`var`_ em _C#_ (_Visual C-Sharp_), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento. Aqui, neste repositório, veremos apenas uma apresentação passo a passo de todas, ou melhor, das principais mais utilizadas para iniciar uma programação.
+
+## Sintaxe
+
+&nbsp;&nbsp;&nbsp;&nbsp;[ _access_ ( **`VAR` | _type_** ) _name_ = { _value_ } ]
+
+Parâmetro `access`:
+
+    § `Public`               A palavra-chave `Público` na instrução de declaração especifica que o elemento pode ser acessado a partir do código em qualquer lugar do mesmo projeto, em outros projetos que referenciam o projeto e em qualquer assembly criado a partir do projeto.
+    § `Protected`            A palavra-chave `Protected` na instrução de declaração especifica que o elemento só pode ser acessado de dentro da mesma classe ou de uma classe derivada dessa classe. 
+    § `Friend`               A palavra-chave `Friend` na instrução de declaração especifica que o elemento pode ser acessado no mesmo assembly, mas não de fora do assembly. 
+    § `Private`              A palavra-chave `Private` na instrução de declaração especifica que o elemento só pode ser acessado no mesmo módulo, classe ou estrutura. 
+    § `Protected Friend`     A combinação de palavras-chave `Protected Friend` na instrução de declaração especifica que o elemento pode ser acessado nas classes derivadas, no mesmo assembly ou em ambos.
+    § `Private Protected`    A combinação de palavras-chave `Private Protected` na instrução de declaração especifica que o elemento só pode ser acessado na mesma classe, bem como nas classes derivadas encontradas no mesmo assembly que a classe relativa.
+
+    Parâmetro `type`:
+
+    § object                 Tamanho 32-bits ou 64-bits sendo possível armazenar qualquer tipo em uma variável do tipo Object
+    § bool                   Tamanho  1-bit  (2^1), com sinal (0) [ true | false ], depende da implementação da plataforma
+    § sbyte                  Tamanho  8-bits ((2^8)/2)-1, com sinal (-128 a 127) 
+    § byte                   Tamanho  8-bits (2^8)-1, sem sinal (0 a 255)
+    § char                   Tamanho 16-bits (2^16)-1, sem sinal (0 a 65535)
+    § short                  Tamanho 16-bits ((2^16)/2)-1, com sinal (-32768 a 32767 ) Mesmo que System.Int16
+    § ushort                 Tamanho 16-bits (2^16)-1, sem sinal (0 a 65535) Mesmo que System.UInt16 ou WORD
+    § int                    Tamanho 32-bits ((2^16)/2)-1, com sinal (-2147483648 a 2147483647 ) Mesmo que System.Int32
+    § uint                   Tamanho 32-bits (2^32)-1, sem sinal (0 a 4294967295) Mesmo que System.UInt32
+    § long                   Tamanho 64-bits ((2^64)/2)-1, com sinal (-9223372036854775808L a 9223372036854775807L) Mesmo que System.Int64
+    § ulong                  Tamanho 64-bits (2^64)-1, sem sinal (0L a 18446744073709551615L) Mesmo que System.UInt64 ou DWORD
+    § float                  Tamanho 32-bits, em float, 1.0E+3F = 1.0 * 1000 = 1000.0F ou 1.0E-3F = 1.0 / 1000 = 0,001F
+    § double                 Tamanho 64-bits, em float, 1.0E+3 = 1.0 * 1000 = 1000.0 ou 1.0E-3 = 1.0 / 1000 = 0,001
+    § decimal                Tamanho 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M)
+    § string                 Tamanho aproximado é de 2 bilhões de caracteres Unicode
+            //
+    Parâmetro `name`:
+    Determine o nome da variável declarada.
+            //
+    Parâmetro `value`:
+    Determine o valor da variável declarada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <code>
 ┌────────┐ ┌───────┐
