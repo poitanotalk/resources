@@ -10,7 +10,7 @@ Aqui, neste repositório, veremos um passo a passo das variáveis mais utilizada
 
 É um imenso prazer:
 
-Me chamo Fábio Santos, e este é meu _primeiro contato_ com a linguagem de programação C# (Visual C-Sharp). Nasci em meados dos anos 80 e tenho um conhecimento rápido de QBasic (Microsoft QuickBASIC) e Assembly para processadores 80x86 e um conhecimento _mais profundo_ em Visual Basic.
+Me chamo Fábio Santos, e este é meu primeiro contato com a linguagem de programação C# (Visual C-Sharp). Nasci em meados dos anos 80 e tenho um conhecimento rápido de QBasic (Microsoft QuickBASIC) e Assembly para processadores 80x86 e um conhecimento mais profundo em Visual Basic.
 
 Bem-vindo!
 
