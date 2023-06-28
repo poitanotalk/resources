@@ -27,7 +27,7 @@ Bem-vindo!
    + **`Private`** A palavra-chave `Private` na instrução de declaração especifica que o elemento só pode ser acessado no mesmo módulo, classe ou estrutura.
    + **`Protected Friend`** A combinação de palavras-chave `Protected Friend` na instrução de declaração especifica que o elemento pode ser acessado nas classes derivadas, no mesmo assembly ou em ambos.
    + **`Private Protected`** A combinação de palavras-chave `Private Protected` na instrução de declaração especifica que o elemento só pode ser acessado na mesma classe, bem como nas classes derivadas encontradas no mesmo assembly que a classe relativa.
-+ _`type`_<br>Usar, em vez de 'VAR', o tipo de dados:
++ _`type`_
    + **`object`** 32-bits ou 64-bits sendo possível armazenar qualquer tipo em uma variável do tipo Object
    + **`bool`** 1-bit  (2^1), com sinal (0) [ true | false ], depende da implementação da plataforma
    + **`sbyte`** 8-bits ((2^8)/2)-1, com sinal (-128 a 127) 
@@ -43,8 +43,11 @@ Bem-vindo!
    + **`[double]`** 64-bits, DoubleFLOAT, -2.2250738585072014E-308 a 1.7976931348623158E+308 **System.Double**
    + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal** M ou m para distinguir-se dos valores anteriores
    + **`string`** 2 bilhões de caracteres Unicode, prefixo literal @ (verbatim) ignorar comandos, apenas string ou $ (interpolate) converter {variáveis} e comandos \x0041 em string
++ _name_
+   + Um nome válido para descrever procedimentos, tipos de dados ou objetos.
++ _value_
+   + Um valor de atribuição para dados char 'a', string "a", números 123 ou até mesmo objeto.
 
-         
 
 
 
