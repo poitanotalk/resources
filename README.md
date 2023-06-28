@@ -50,6 +50,8 @@ _`type`_
    + _
    + _Prefixo literal 
 
+> Nota: sempre use o sufixo literal forçado L/UL ou l/ul para diferenciar o tipo long e ulong do padrão int, use F ou f para diferenciar o tipo float do padrão double racional. Também podemos usar o prefixo literal @ (verbatim) para ignorar comandos de string ou $ (interpolar) para aceitar e converter  comandos {variáveis} e \x0041 em string.
+
 _name_
 
 + Um nome válido para descrever procedimentos, tipos de dados ou objetos.
@@ -58,5 +60,7 @@ _value_
 
 + Um valor de atribuição para dados char 'a', string "a", números 123 ou até mesmo objeto.
 
+## Literais e conversões
 
-> Nota: utilize sempre o _sufixo literal **L** ou **l** para diferir o tipo `long` e `ulong` do padrão **`int`**, utilize F ou f para diferir o tipo `float` do padrão racional `double`. Também podemos utilizar o prefixo literal @ (verbatim) para ignorar comandos em `strings`, e $ (interpolate) para aceitar e converter {variáveis} e comandos \x0041 em string._
+var SignedByte = (sbyte)42;
+var LongVariable = (long)42;
