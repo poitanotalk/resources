@@ -43,7 +43,7 @@ Bem-vindo!
    + **`[double]`** 64-bits, DoubleFLOAT, -2.2250738585072014E-308 a 1.7976931348623158E+308 **System.Double**
    + **`decimal`** 96-bits  int/float (-79228162514264337593543950335M a 79228162514264337593543950335M) **System.Decimal** literal M ou m para distinguir-se dos valores anteriores
    + **`string`** 2 bilhões de caracteres Unicode
-      + Literais e coerção de texto:<br>@ (verbatim) caracteres são interpretado de forma textual<br>$
+      + Literais e coerção de texto:<br>@ (verbatim) caracteres são interpretado de forma textual<br>$ (Interpolate) caracteres e {variáveis} convertidas de forma textual
 
          
 
