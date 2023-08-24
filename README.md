@@ -23,8 +23,79 @@ Primeiro, você criará um projeto de aplicativo do Visual Basic. O modelo de pr
 
 ![Estrutura](./images/structure.png)
 
-O Visual Studio abre seu novo projeto.
+7. O Visual Studio abre seu novo projeto, adicionar código:
 
+```Basic
+Public Class Form1
+
+    ' cria o formulário de splashscreen
+    Private SplashScreen As New System.Windows.Forms.Form With {
+        .AutoScaleDimensions = New System.Drawing.SizeF(7.0F, 15.0F),
+        .AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font,
+        .BackColor = System.Drawing.ColorTranslator.FromHtml("#F0F0F0"),    ' cor de fundo em hexadecimal  (default)
+        .BackgroundImage = System.Drawing.Image.FromFile(".\res\SplashScreen.png"),    ' carregar imagem de recurso 'banner'
+        .ClientSize = New System.Drawing.Size(532, 292),    ' definir o tamanho do formulário e imagem do 'banner'
+        .Font = New System.Drawing.Font("Segoe UI", 9.0F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point),
+        .FormBorderStyle = System.Windows.Forms.FormBorderStyle.None,    ' ocultar bordas do formulário
+        .MaximizeBox = False,
+        .MinimizeBox = False,
+        .Opacity = 0.0R,    ' ocultar formulário
+        .Name = "SplashScreen",
+        .StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen,    ' exibir no centro da tela
+        .Text = "SplashScreen"
+    }
+
+    Private Sub Form1_Load(sender As Object, e As System.EventArgs) Handles MyBase.Load
+
+        ' cria um evento Shown (exibir pela primeira vez) tipo sub-rotina handler
+        AddHandler SplashScreen.Shown, AddressOf SplashScreen_Shown
+        SplashScreen.ShowDialog()    ' exibição modal (janela restrita)
+
+    End Sub
+
+    Private Sub SplashScreen_Shown(sender As Object, e As System.EventArgs)
+
+        ' fade in (aparecer)
+        With SplashScreen
+            .Opacity = 0.0R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.1R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.2R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.3R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.4R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.5R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.6R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.7R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.8R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.9R : System.Threading.Thread.Sleep(70)
+            .Opacity = 1.0R : System.Threading.Thread.Sleep(70)
+        End With
+
+        ' aguarda o tempo do 'banner'
+        System.Threading.Thread.Sleep(7000)    '  7000 milissegundos é igual a 7 segundos
+
+        ' fade out (desaparecer)
+        With SplashScreen
+            .Opacity = 1.0R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.9R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.8R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.7R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.6R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.5R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.4R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.3R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.2R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.1R : System.Threading.Thread.Sleep(70)
+            .Opacity = 0.0R : System.Threading.Thread.Sleep(70)
+        End With
+
+        ' dispose splashscreen (descarta)
+        SplashScreen.Close()
+        SplashScreen.Dispose()
+
+    End Sub
+
+End Class
+```
 
 
 
