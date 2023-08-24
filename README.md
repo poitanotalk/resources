@@ -100,7 +100,7 @@ End Class
 
 ![Tela de Abertura](./images/splashscreen.png)
 
-Parabéns por concluir este tutorial. Confira o tutorial do repositório **Login Form**.
+Parabéns por concluir este tutorial! Confira o próximo tutorial do repositório **Login Form**.
 
 
 
