@@ -1,5 +1,5 @@
 # Criar um aplicativo do Visual Basic .NET
-Splash Screen - Artigo August 24, 2023
+Splash Screen - Artigo Agosto 24, 2023
 
 Primeiro, você criará um projeto de aplicativo do Visual Basic. O modelo de projeto padrão inclui todos os arquivos necessários para um aplicativo executável.
 
@@ -100,7 +100,7 @@ End Class
 
 ![Tela de Abertura](./images/splashscreen.png)
 
-Parabéns por concluir este tutorial. Confira o tutorial **Login Form**.
+Parabéns por concluir este tutorial. Confira o tutorial do repositório **Login Form**.
 
 
 
