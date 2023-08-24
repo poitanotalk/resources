@@ -23,7 +23,7 @@ Primeiro, você criará um projeto de aplicativo do Visual Basic. O modelo de pr
 
 ![Estrutura](./images/structure.png)
 
-7. O Visual Studio abre seu novo projeto, adicionar código:
+7. O Visual Studio abre seu novo projeto, adicionar código.
 
 ```Basic
 Public Class Form1
@@ -96,7 +96,11 @@ Public Class Form1
 
 End Class
 ```
+8. Você pode criar uma imagem de tela como no exemplo abaixo.
 
+![Tela de Abertura](./images/splashscreen.png)
+
+Parabéns por concluir este tutorial. Confira o tutorial a seguir.
 
 
 # Variáveis
