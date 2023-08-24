@@ -1,3 +1,33 @@
+# Criar um aplicativo do Visual Basic .NET
+Splash Screen - Artigo August 24, 2023
+
+Primeiro, você criará um projeto de aplicativo do Visual Basic. O modelo de projeto padrão inclui todos os arquivos necessários para um aplicativo executável.
+
+1. Abra o Visual Studio.
+
+2. Na tela Iniciar, selecione criar um **Novo Projeto**.
+   
+![Novo Projeto](./images/welcome.png)
+
+3. Na janela **criar um novo projeto**, escolha **Visual Basic** na lista Linguagem. Em seguida, escolha **Windows** na lista Plataforma e **Área de Trabalho** na lista Tipos de projeto.
+
+4. Depois de aplicar os filtros dessa linguagem, plataforma e tipo de projeto, escolha o modelo **Aplicativo Windows Forms** e, em seguida, escolha **Avançar**.
+
+![Aplicativo Windows Forms](./images/winforms.png)
+
+5. Na janela configurar seu novo projeto, insira **Shop10** na caixa Nome do projeto. Em seguida insira **Service** na caixa Nome da solução, escolha **Avançar**.
+
+![Aplicativo Windows Forms](./images/project.png)
+
+6. Na janela informações adicionais, o **.NET 6.0 (Suporte de Longo Prazo)** já deve estar selecionado para sua estrutura de destino. Caso contrário, selecione **.NET 7.0 (Suporte a Termos Padrão)**. Em seguida, escolha **Criar**.
+
+![Estrutura](./images/structure.png)
+
+O Visual Studio abre seu novo projeto.
+
+
+
+
 # Variáveis
 
 Geralmente, _variável_, ou _var_ em C# (Visual C-Sharp), é o nome usado para definir um ou mais valores que são manipulados pelos programas durante seu funcionamento.
